@@ -1,0 +1,156 @@
+﻿<episode num="1" title="pilot" airdate="2012-06-15">
+    <segment type="intro" voice="cecil">A friendly desert community where the sun is hot, the moon is beautiful,
+        and mysterious lights pass overhead while we all pretend to sleep. Welcome to Night
+        Vale.</segment>
+
+    <segment type="news govt" voice="cecil">Hello, listeners. To start things off, I’ve been asked to read this
+        brief notice: <ref type="group" spec="cityCouncil">The City Council</ref> announces the opening of <ref type="group" spec="dogPark">a new Dog Park</ref> at <ref type="place" spec="address">the corner of Earl
+        and Somerset</ref>, near <ref type="place" spec="ralphs">the Ralph’s</ref>. They would like to remind everyone that <ref type="nonperson" spec="dog">dogs</ref> are not allowed
+        in the Dog Park. People are not allowed in the Dog Park. It is possible you will see <ref type="group" spec="hoodedFigure">Hooded
+            Figures</ref> in the Dog Park. Do not approach them. Do not approach the Dog Park. The fence is
+        electrified and highly dangerous. Try not to look at the Dog Park, and especially do not
+        look for any period of time at the Hooded Figures. The Dog Park will not harm you. </segment>
+    <segment type="news" voice="cecil">And now, the news. <ref type="person" spec="josie">Old Woman Josie, out near the Car Lot</ref>, says <ref type="group" spec="angels">the Angels</ref>
+        revealed themselves to her. Said they were ten feet tall, radiant, and one of them was
+        black. Said they helped her with various household chores. One of them changed a light bulb
+        for her — the porch light. She’s offering to sell the old light bulb, which has been touched
+        by an Angel. It was the black Angel, if that sweetens the pot for anyone. If you’re
+        interested, contact Old Woman Josie. She’s out near the <ref type="place" spec="carLot">Car Lot</ref>. </segment>
+    <segment type="news main" voice="cecil"><ref type="person" spec="carlos">A new man</ref> came into town today. Who is he? What does he want from us?
+        Why <ref type="object" spec="carlosHair">his perfect and beautiful haircut</ref>? Why <ref type="object" spec="carlosLabcoat">his perfect and beautiful coat</ref>? He says he is a
+        scientist. Well…<ref type="abstract" spec="science">we have all been scientists at one point or another in our lives</ref>. But why
+        now? Why here? And just what does he plan to do with <ref type="object" spec="sciEquip">all those breakers and humming
+        electrical instruments</ref> in <ref type="place" spec="lab">that lab he’s renting</ref> — the one next to <ref type="place" spec="bigRicos">Big Rico’s Pizza</ref>? No one
+        does a slice like Big Rico. No one. </segment>
+    <segment type="psa" voice="cecil">Just a reminder to all the parents out there: let’s talk about safety when taking your
+        <ref type="group" spec="children">children</ref> out to play in <ref type="place" spec="sandWastes">the scrublands and the sand wastes</ref>. You need to <ref type="abstract" spec="health">give them plenty of
+        water</ref>, make sure there’s <ref type="group" spec="tree">a shade tree</ref> in the area, and keep an eye on the <ref type="object" spec="helicopter">helicopter colors</ref>.
+        Are the unmarked helicopters circling the area black? Probably <ref type="group" spec="worldGovt">World Government</ref>. Not a good
+        area for play that day. Are they blue? That’s <ref type="group" spec="secPol">the Sheriff’s Secret Police</ref>. They’ll keep a
+        good eye on your kids, and hardly ever take one. Are they <ref type="abstract" spec="art">painted with complex murals</ref>
+        depicting <ref type="nonperson" spec="bird">birds of prey</ref> diving? <ref type="group" spec="mysteryHelicopter">No one knows</ref> what those helicopters are, or what they want.
+        Do not play in the area. Return to <ref type="place" spec="home">your home</ref> and lock the doors until a Sheriff’s Secret
+        Policeman leaves <ref type="object" spec="flower">a carnation</ref> on your porch to indicate that the danger has passed. Cover
+        your ears to blot out the screams. Also remember: <ref type="culture" spec="gatorade">Gatorade</ref> is basically soda, so <ref type="abstract" spec="health">give your
+        kids plain old water and maybe some orange slices when they play</ref>.</segment>
+
+    <segment type="news" voice="cecil"><ref type="object" spec="plane">A commercial airliner</ref> flying through local airspace disappeared today, only to reappear
+        in the <ref type="place" spec="elementary">Night Vale Elementary</ref> gymnasium during <ref type="abstract" spec="sports">basketball practice</ref>, disrupting practice quite
+        badly. The jet roared through the small gym for only a fraction of a second. And before it
+        could strike any players or structure, it vanished again. This time, apparently, for good.
+        There is no word yet on if or how this will affect Night Vale Mountain Lions’ game schedule,
+        and also if this could perhaps be the work of their bitter rivals the Desert Bluffs Cacti.
+        <ref type="place" spec="desertBluffs">Desert Bluffs</ref> is always trying to show us up through fancier uniforms, better pre-game
+        snacks, and possibly by transporting a commercial jet into our gymnasium, delaying practice
+        for several minutes at least. For shame, Desert Bluffs. For shame.</segment>
+
+    <segment type="news personal main" voice="cecil"><ref type="person" spec="carlos">That new scientist</ref> — who we now know is named Carlos — called a town meeting. <ref type="object" spec="carlosFace">He has a
+        square jaw, and teeth like a military cemetery</ref>. <ref type="object" spec="carlosHair">His hair is perfect, and we all hate, and
+        despair, and love that perfect hair in equal measure</ref>. <ref type="person" spec="josie">Old Woman Josie</ref> brought <ref type="object" spec="bread">corn muffins</ref>
+        which were decent, but lacked <ref type="object" spec="salt">salt</ref>. She said <ref type="group" spec="angels">the Angels</ref> had taken her salt for a Godly
+        mission, and she hadn’t yet gotten around to buying more. <ref type="abstract" spec="science">Carlos told us that we are by far
+        the most scientifically interesting community in the U.S., and he had come to study just
+        what is going on around here.</ref> He grinned, and everything about him was perfect, <ref type="abstract" spec="love">and I fell
+            in love instantly</ref>. <ref type="group" spec="worldGovt">Government agents from a Vague, Yet Menacing Agency</ref> were in the back,
+        watching. I fear for Carlos. I fear for Night Vale. I fear for anyone caught between what
+        they know and what they don’t yet know that they don’t know. </segment>
+    <segment type="news govt" voice="cecil">We received a press release this morning. The <ref type="group" spec="businessAssoc">Night Vale Business Association</ref> is proud
+        to announce the opening of <ref type="place" spec="waterfront">the brand new Night Vale Harbor and Waterfront Recreation Area</ref>. I
+        have been to these facilities myself recently on their invitation, and I can tell you that
+        it is absolutely top of the line and beautiful. Sturdy docking areas made from eco-friendly
+        post-consumer material, a boardwalk for pedestrians, and plenty of stands ready for local
+        food vendors and merchants to turn into a bustling public marketplace. Now, there is some
+        concern about the fact that, given we are in the middle of a desert, there is no actual
+        water at the waterfront. And that is a definite drawback, I agree. For instance, the
+        boardwalk is currently overlooking sagebrush and rocks. The Business Association did not
+        provide any specific remedies for this problem, but they assured me that the new harbor
+        would be a big boost to Night Vale nonetheless. Maybe wait until a flash flood and head down
+        there for the full waterfront experience.</segment>
+
+    <segment type="news govt advert" voice="cecil"><ref type="group" spec="nra">The local chapter of the NRA</ref> is selling bumper stickers as part of their fund-raising
+        week. They sent the station one to get some publicity. And we’re here to serve the
+        community, so I’m happy to let you all know about it. The stickers are made from good,
+        sturdy vinyl, and they read: Guns don’t kill people. It’s impossible to be killed by a gun.
+        We are all invincible to bullets and it’s a miracle. Stand outside of your front door and
+        shout “NRA!” to order one.</segment>
+
+    <segment type="news main" voice="cecil"><ref type="person" spec="carlos">Carlos</ref> and <ref type="group" spec="scienceTeam">his team of scientists</ref> warn that <ref type="place" spec="phantomHouse">one of the houses</ref> in the new development of
+        Desert Creek, out back of the elementary school, doesn’t actually exist. "It seems like it
+        exists," explained Carlos and <ref type="object" spec="carlosHair">his perfect hair</ref>. "Like it’s just right there when you look at
+        it. And it’s between two other identical houses, so it would make more sense for it to be
+        there than not." But, he says, <ref type="abstract" spec="science">they have done experiments</ref> and the house is definitely not
+        there. At news time, the scientists are standing in a group on the sidewalk in front of the
+        nonexistent house, daring each other to go knock on the door. </segment>
+    <segment type="news" voice="cecil">A great howling was heard from the <ref type="place" spec="postOffice">Night Vale Post Office</ref> yesterday. Postal workers
+        claim no knowledge, although passers-by describe the sound as being a little like a human
+        soul being destroyed through black magic. <ref type="person" spec="apacheTracker">The Indian tracker</ref> — now, I don’t know if you’ve
+        seen this guy around. He’s the one that appears to be of maybe Slavic origin, yet wears an
+        Indian headdress out of some racist cartoon and claims to be able to read tracks on asphalt.
+        He appeared on the scene, and swore that he would discover the truth. No one responded
+        because it’s really hard to take him seriously in that headdress of his.</segment>
+
+    <segment type="advert" voice="cecil"><ref type="nonperson" spec="arbysLights">Lights</ref>. Seen in the sky above the <ref type="culture" spec="arbys">Arby</ref>’s. Not the glowing sign of Arby’s. Something
+        higher, and beyond that. We know the difference. We’ve caught on to their game. We
+        understand the “lights above Arby’s” game. Invaders from another world. Ladies and
+        gentlemen, the future is here, and it’s about 100 feet above the Arby’s.</segment>
+
+    <segment type="news main" voice="cecil"><ref type="person" spec="carlos">Carlos</ref> and <ref type="group" spec="scienceTeam">his scientists</ref> at <ref type="place" spec="quakeStation">the monitoring station</ref> near <ref type="place" spec="rte800">Route 800</ref> say their seismic
+        monitors have been indicating <ref type="abstract" spec="earthquake">wild seismic shifts</ref> — meaning to say that the ground should be
+        going up and down all over the place. I don’t know about you folks, but the ground has been
+        as still as the crust of a tiny globe rocketing through <ref type="abstract" spec="void">an endless void</ref> could be. Carlos
+        says that they’ve double-checked the monitors and they are in perfect working order. To put
+        it plainly, there appears to be catastrophic earthquakes happening right here in Night Vale
+        that absolutely no one can feel. Well, submit an <ref type="abstract" spec="insurance">insurance claim</ref> anyway. See what you can
+        get, right?</segment>
+
+    <segment type="traffic" voice="cecil">Traffic time, listeners. Now, <ref type="group" spec="secPol">police</ref> are issuing warnings about <ref type="object" spec="ghostCar">ghost cars</ref> out on the
+        highways, those cars only visible in the distance reaching unimaginable speeds leaving
+        destinations unknown for destinations more unknown. They would like to remind you that you
+        should not set your speed by these apparitions, and doing so will not be considered
+        “following the flow of traffic.” However, they do say that it’s probably safe to match speed
+        with <ref type="nonperson" spec="arbysLights">the mysterious lights in the sky</ref>, as whatever entities or organizations responsible
+        appear to be cautious and reasonable drivers. </segment>
+    <segment type="weather" voice="weather">And now, the weather. [“These and More Than These" by Joseph Fink] </segment>
+    <segment type="news main" voice="cecil">Welcome back, listeners. <ref type="nonperson" spec="sun">The sun</ref> didn’t set at the correct time today, <ref type="person" spec="carlos">Carlos</ref> and <ref type="group" spec="scienceTeam">his
+        team of scientists</ref> report. They’re quite certain about it. They checked multiple clocks and
+        the sun definitely set ten minutes later than it was supposed to. I asked them if they had
+        any explanations but they did not offer anything concrete. Mostly they sat in a circle
+        around a desk clock, staring at it, murmuring, and cooing. Still, we must be grateful to
+        have the sun at all. It’s easy to forget in this hot, hot, hot desert climate, but things
+        would actually be slightly harder for us without the sun. The next time the sun rises,
+        whatever time that turns out to be, take a moment to feel grateful for all the warmth and
+        light and even, yes, extreme heat that our desert community is gifted with. </segment>
+    <segment type="govt" voice="cecil"><ref type="group" spec="cityCouncil">The City Council</ref> would like to remind you about the tiered Heavens, and the hierarchy
+        of <ref type="group" spec="angels">Angels</ref>. The reminder is that you should not know anything about this. The structure of
+        Heaven and the organizational chart are privileged information, known only to the City
+        Council members on a need-to-know basis. Please do not speak to or acknowledge any Angels
+        that you may come across while shopping at <ref type="place" spec="ralphs">the Ralph’s</ref> or at <ref type="place" spec="bowlingAlley">the Desert Flower Bowling Alley
+        and Arcade Fun Complex</ref>. They only tell lies and do not exist. Report all Angel sightings to
+        the City Council for treatment. </segment>
+    <segment type="psa" voice="cecil">And now a brief public service announcement. <ref type="nonperson" spec="reptile">Alligators</ref>: can they kill your children?
+        Yes. Along those lines, to get personal for a moment, I think the best way to die would be
+        swallowed by a giant snake. Going feet-first and whole into a slimy maw would give your life
+        perfect symmetry. </segment>
+    <segment type="news" voice="cecil">Speaking of <ref type="place" spec="bowlingAlley">the Desert Flower Bowling Alley
+        and Arcade Fun Complex</ref>, its owner, <ref type="person" spec="teddyWilliams">Teddy
+        Williams</ref>, reports that he has found the entrance to <ref type="place" spec="tinyCity">a vast underground city in the pin
+        retrieval area of Lane 5</ref>. He said he has not yet ventured into it; merely peered down at its
+        strange spires and broad avenues. He also reports voices of <ref type="group" spec="tinyPeople">a distant crowd</ref> in the depths of
+        that subterranean metropolis. Apparently the entrance was discovered when a bowling ball
+        accidentally rolled into it, clattering down to the city below with sounds that echoed for
+        miles across the impossibly huge cavern. So, you know, whatever population that city has,
+        they know about us now, and we might be hearing from them very soon. </segment>
+    <segment type="news main" voice="cecil"><ref type="person" spec="carlos">Carlos, perfect and beautiful</ref>, came into our studios during the break earlier but
+        declined to stay for an interview. He had some <ref type="object" spec="sciEquip">sort of blinking box</ref> in his hand covered with
+        wires and tubes. Said he was <ref type="abstract" spec="science">testing the place for "materials."</ref> I don’t know what materials
+        he meant but that box sure whistled and beeped a lot. When he put it close to the microphone
+        it sounded like, well, <ref type="nonperson" spec="bird">like a bunch of baby birds had just woken up</ref>. Really went crazy.
+        Carlos looked nervous. I’ve never seen that kind of look on someone with <ref type="object" spec="carlosFace">that strong of a
+        jaw</ref>. He left in a hurry. Told us to evacuate the building. But then, who would be here to
+        talk to sweetly to all of you out there? </segment>
+    <segment type="ending" voice="cecil"><ref type="abstract" spec="weather">Settling in to be another clear night and pretty evening here in Night Vale.</ref> <ref type="abstract" spec="love">I hope all
+        of you out there have someone to sleep through it with.</ref> Or, at least, good memories of when
+        you did. Goodnight, listeners. Goodnight. </segment>
+    <segment type="proverb" voice="credits">Today’s proverb: Look to the north. Keep looking.
+        There’s nothing coming from the south. </segment>
+</episode>

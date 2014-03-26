@@ -1,0 +1,19 @@
+Spec values by Type
+
+People:
+"josie"|"carlos"|"apacheTracker"|"teddyWilliams"
+Nonpeople:
+"dog"|"bird"|"arbysLights"|"sun"|"reptile"
+Groups:
+"cityCouncil"|"hoodedFigure"|"angels"|"children"|"tree"|"worldGovt"|"secPol"|"mysteryHelicopter"|"businessAssoc"|"scienceTeam"|"tinyPeople"
+Places:
+"dogPark"|"address"|"ralphs"|"carLot"|"lab"|"bigRicos"|"sandWastes"|"home"|"elementary"|"desertBluffs"|"waterfront"|"nra"|"phantomHouse"|"postOffice"|"quakeStation"|rte800"|
+"bowlingAlley"|"tinyCity"
+Cultural icons:
+"gatorade"|"arbys"
+Objects:
+"carlosHair"|"carlosLabcoat"|"sciEquip"|"helicopter"|"flower"|"plane"|"sports"|"carlosFace"|"bread"|"salt"|"ghostCar"
+Languages:
+
+Abstractions:
+"science"|"health"|"art"|"love"|"earthquake"|"void"|"insurance"|"weather"|
