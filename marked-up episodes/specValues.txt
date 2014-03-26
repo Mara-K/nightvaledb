@@ -5,7 +5,7 @@ People:
 Nonpeople:
 "dog"|"bird"|"arbysLights"|"sun"|"reptile"
 Groups:
-"cityCouncil"|"hoodedFigure"|"angels"|"children"|"tree"|"worldGovt"|"secPol"|"mysteryHelicopter"|"businessAssoc"|"scienceTeam"|"tinyPeople"
+"cityCouncil"|"hoodedFigure"|"angels"|"children"|"tree"|"worldGovt"|"secPol"|"mysteryHelicopter"|"businessAssoc"|"scienceTeam"|"tinyPeople"|"tourismBoard"
 Places:
 "dogPark"|"address"|"ralphs"|"carLot"|"lab"|"bigRicos"|"sandWastes"|"home"|"elementary"|"desertBluffs"|"waterfront"|"nra"|"phantomHouse"|"postOffice"|"quakeStation"|rte800"|
 "bowlingAlley"|"tinyCity"
@@ -16,4 +16,4 @@ Objects:
 Languages:
 
 Abstractions:
-"science"|"health"|"art"|"love"|"earthquake"|"void"|"insurance"|"weather"|
+"science"|"health"|"art"|"love"|"earthquake"|"void"|"insurance"|"weather"

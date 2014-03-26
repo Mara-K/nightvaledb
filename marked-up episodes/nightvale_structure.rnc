@@ -4,8 +4,8 @@ num = attribute num {xsd:int|"19A"|"19B"|"40.5"}
 title = attribute title {text}
 airdate = attribute airdate {text}
 
-segment = element segment {type, voice, mixed{ref}}
-type = attribute type {"intro"|"news"|"govt"|"personal"|"advert"|"main"|"weather"|"guest"|"science"|"psa"|"closing"} #add more as you go?
+segment = element segment {type, voice, mixed{ref*}}
+type = attribute type {"intro"|"news"|"traffic"|"personal"|"advert"|"main"|"weather"|"calendar"|"guest"|"science"|"psa"|"closing"|"proverb"}
 voice = attribute voice {"cecil"|"weather"|"credits"|"fow"|"kevin"|"dana"|"carlos"|"hiram"|"lauren"} #Lauren is Peppy Girl. Add more as they appear.
 
 ref = element ref {reftype, spec, text}
