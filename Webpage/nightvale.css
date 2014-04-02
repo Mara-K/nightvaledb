@@ -1,0 +1,12 @@
+body{
+    background-color:#660066;
+    color:white;
+    text-align:center;
+}
+#header,#footer{
+    background-color:purple;
+    color:black;
+}
+select.second{
+    display:none;
+}

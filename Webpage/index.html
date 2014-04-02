@@ -1,0 +1,158 @@
+<!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Night Vale Database</title>
+    </head>
+    <body>
+        <div id="header">
+            <p class="center">A friendly online community, where the sun is hot, the moon is beautiful, and strange lights pass overhead as we all pretend to sleep.
+            Welcome to</p>
+            <h1>The <em>Welcome to Night Vale</em> Database</h1>
+        </div>
+        <div id="topics">
+            <h2>Search topics by category</h2>
+            <p>Select a category and a topic, and find all references to that topic. No blood sacrifice necessary. Yet.</p>
+            <select id="type"><!--Make all the others display="none", and have the Javascript change it to "block" when the right one is selected-->
+                <option>Select a category</option>
+                <option>Abstract concepts</option>
+                <option>Animals and Supernatural</option>
+                <option>Cultural icons</option>
+                <option>Groups and Organizations</option>
+                <option>Languages</option>
+                <option>Objects</option>
+                <option>People</option>
+                <option>Places</option>
+            </select>
+            <select class="second" id="person">
+                <option>Select a topic</option>
+                <option>Apache Tracker</option>
+                <option>Carlos</option>
+                <option>Frank Chen</option>
+                <option>Hiram McDaniels</option>
+                <option>Leanne Hart</option>
+                <option>Louis Blasco</option>
+                <option>John Peters</option>
+                <option>Larry Leroy</option>
+                <option>Old Woman Josie</option>
+                <option>Radio station interns</option>
+                <option>Teddy Williams</option>
+                <option>Telly the Barber</option>
+            </select>
+            <select class="second" id="nonperson">
+                <option>Select a topic</option>
+                <option>Birds</option>
+                <option>Dogs</option>
+                <option>Glow Cloud</option>
+                <option>Khoshekh</option>
+                <option>Lights over the Arby's</option>
+                <option>Lions</option>
+                <option>Reptiles</option>
+                <option>Station Management</option>
+                <option>The sun</option>
+            </select>
+            <select class="second" id="group">
+                <option>Select a topic</option>
+                <option>Angels</option>
+                <option>Animal Control</option>
+                <option>Boy Scouts</option>
+                <option>Business Association</option>
+                <option>Carlos' team of scientists</option>
+                <option>Children</option>
+                <option>City Council</option>
+                <option>Hooded Figures</option>
+                <option>Mysterious Helicopters</option>
+                <option>NRA</option>
+                <option>People from the underground city</option>
+                <option>PTA</option>
+                <option>Sheriff's Secret Police</option>
+                <option>Tourism Board</option>
+                <option>Trees</option>
+                <option>Vague Yet Menacing Government Agency</option>
+            </select>
+            <select class="second" id="language">
+                <option>Select a topic</option>
+                <option>Accents</option>
+                <option>Russian</option>
+                <option>Spanish</option>
+            </select>
+            <select class="second" id="object">
+                <option>Select a topic</option>
+                <option>Airplanes</option>
+                <option>Alert Citizen Card</option>
+                <option>Books</option>
+                <option>Carlos' perfect face</option>
+                <option>Carlos' perfect hair</option>
+                <option>Envelopes</option>
+                <option>Eternal Animal Pyre</option>
+                <option>Flags</option>
+                <option>Flowers</option>
+                <option>Ghost cars</option>
+                <option>Helicopters</option>
+                <option>Ice cream</option>
+                <option>Lab coats</option>
+                <option>Milk</option>
+                <option>Newspapers</option>
+                <option>Recording equipment</option>
+                <option>Salt</option>
+                <option>Scientific equipment</option>
+                <option>Teeth</option>
+                <option>Trash</option>
+                <option>Umbrellas</option>
+                <option>Vanilla</option>
+                <option>Wheat and wheat by-products</option>
+            </select>
+            <select class="second" id="abstract">
+                <option>Select a topic</option>
+                <option>Arson</option>
+                <option>Art</option>
+                <option>Creeping Fear</option>
+                <option>Death</option>
+                <option>Earthquake</option>
+                <option>Education</option>
+                <option>Insurance</option>
+                <option>Health</option>
+                <option>Hooded Figure Parade</option>
+                <option>Love</option>
+                <option>Lyme Disease</option>
+                <option>Science</option>
+                <option>Sports</option>
+                <option>Thanksgiving Day Dead Citizens Impersonation Contest</option>
+                <option>Visitable Night Vale</option>
+                <option>Void</option>
+                <option>War</option>
+                <option>Weather</option>
+                <option>Writing</option>
+
+            </select>
+            <select class="second" id="place">
+                <option>Select a topic</option>
+            </select>
+            <select class="second" id="culture">
+                <option>Select a topic</option>
+            </select>
+            <button id="topicButton">Search topics</button>
+        </div>
+        <div id="segments">
+            <h2>Search for segment types</h2>
+            <select id="segSearch">
+                <option>Select a segment type</option>
+                <option>Advertisement</option>
+                <option>Introduction</option>
+                <option>Proverb</option>
+                <option>Traffic</option>
+                <option>Weather</option>
+            </select>
+            <button id="segmentButton">Search segments</button>
+        </div>
+        <div id="results">
+        </div>
+        <div id="footer">
+            <p>All transcripts obtained with permission from <a href="http://cecilspeaks.tumblr.com">cecilspeaks.tumblr.com</a></p>
+            <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" style="outline: none;">
+                <img src="http://www.obdurodon.org/images/cc/88x31.png"
+                    alt="[Creative Commons BY-NC-SA 3.0 Unported License]"
+                    title="Creative Commons BY-NC-SA 3.0 Unported License" style="height: 1em" />
+            </a>
+        </div>
+    </body>
+</html>

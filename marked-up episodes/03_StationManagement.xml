@@ -54,52 +54,52 @@
         nature and cause of these problems. <ref type="group" spec="cityCouncil">The City Council</ref> has released only a brief statement
         indicating that their stance on books has not changed and that, as always, they believe that
         books are dangerous and inadvisable and should not be kept in private homes. </segment>
-    <segment type="psa" voice="cecil">Another warning for Night Vale residents: Sources say that the Used and Discount
-        Sporting Goods store on Flint Drive is a front for the World Government. This is based on
+    <segment type="psa" voice="cecil">Another warning for Night Vale residents: Sources say that <ref type="place" spec="usedNDiscount">the Used and Discount
+        Sporting Goods store</ref> on <ref type="place" spec="address">Flint Drive</ref> is a front for <ref type="group" spec="worldGovt">the World Government</ref>. This is based on
         extensive study of the location, and also because it has a black helicopter pad on which
-        black helicopters regularly depart and land. Fairly unusual for a used and discount sporting
-        goods store. We sent our intern, Chad, to try buying a tennis racket — and have not heard
+        <ref type="object" spec="helicopter">black helicopters</ref> regularly depart and land. Fairly unusual for a used and discount sporting
+        goods store. We sent <ref type="person" spec="intern">our intern, Chad</ref>, to try buying a tennis racket — and have not heard
         back from him for several weeks. This brings me to a related point: To the parents of Chad
         the Intern: we regret to inform you that your son was lost in the line of community radio
         duty, and that he will be missed and never forgotten. May you all feel blessed to have the
-        family that you have, and if you’re looking for sporting goods, check out Play Ball right
-        over by our own Night Vale community radio station! Play Ball is only a front for the
-        Sheriff’s Secret Police, and so can be completely trusted. </segment>
-    <segment type="news" voice="cecil">Larry Leroy, out on the edge of town, reported that a Creeping Fear came into Night
+        family that you have, and if you’re looking for sporting goods, check out <ref type="place" spec="playBall">Play Ball</ref> right
+        over by our own Night Vale community radio station! Play Ball is only a front for <ref type="group" spec="secPol">the
+        Sheriff’s Secret Police</ref>, and so can be completely trusted. </segment>
+    <segment type="news" voice="cecil"><ref type="person" spec="larryLeroy">Larry Leroy, out on the edge of town</ref>, reported that <ref type="abstract" spec="creepingFear">a Creeping Fear</ref> came into Night
         Vale today. He felt it first as a mild apprehension, then a growing worry, and finally a
         mortal panic. It passed from him to the employees at the Car Lot, who crouched behind their
-        cars and cast fearful eyes at the empty sky. It did not affect Old Woman Josie, presumably
-        because of her angelic protection, but it went from there to the rest of the town until we
+        cars and cast fearful eyes at the empty sky. It did not affect <ref type="person" spec="josie">Old Woman Josie</ref>, presumably
+        because of <ref type="group" spec="angels">her angelic protection</ref>, but it went from there to the rest of the town until we
         all were shivering in anticipation for a terrible thing we could not yet see. I myself was
         frozen, sure that any movement would lead to death; that any word would be my last. Of
-        course, that also could have been the contracts negotiations with station management, and
-        the hideous envelope I just received. Also, I’m battling Lyme disease. Meanwhile, the
+        course, that also could have been the contracts negotiations with <ref type="nonperson" spec="stationManagement">station management</ref>, and
+        the hideous envelope I just received. Also, I’m battling <ref type="abstract" spec="lymeDisease">Lyme disease</ref>. Meanwhile, the
         Creeping Fear passed, first leaving Larry Leroy out on the edge of town, and then the Car
         Lot, where they went back to offering gently used cars at affordable prices, and finally the
         rest of us — who could go back to living with the knowledge that at any given moment we will
         either live or die, and it’s no use guessing which. It is not currently known where the
-        Creeping Fear will go next — hopefully to Desert Bluffs. It would serve them right. </segment>
-    <segment type="personal" voice="cecil">Two hawk-eyed listeners sent in reports that Carlos, our curious scientific visitor,
-        was seen getting his beautiful, beautiful hair cut. He was having his gorgeous hair shorn!
-        Cut! Cut short! So very short from his perfectly-shaped brilliant head! Listeners, I am not
+        Creeping Fear will go next — hopefully to <ref type="place" spec="desertBluffs">Desert Bluffs</ref>. It would serve them right. </segment>
+    <segment type="personal" voice="cecil">Two hawk-eyed listeners sent in reports that <ref type="person" spec="carlos">Carlos, our curious scientific visitor</ref>,
+        was seen getting <ref type="object" spec="carlosHair">his beautiful, beautiful hair</ref> cut. He was having his gorgeous hair shorn!
+        Cut! Cut short! So very short from <ref type="object" spec="carlosFace">his perfectly-shaped brilliant head</ref>! Listeners, I am not
         one to gossip even if it is a local celebrity, but please explain to me why Carlos would
         strip away — decimate! — any part of his thick black hair…not to ignore the dignified, if
         premature, touch of gray in the temples. What treacherous barber should agree to such
         depravity? Who takes mere money, or even soulless joy, in depriving our small community of
         such a simple, but important, act as luridly admiring Carlos’s stunning coif? Reports from
-        two intrepid sources are that it was Telly the Barber. Telly, who likes sports and has
+        two intrepid sources are that it was <ref type="person" spec="tellyBarber">Telly the Barber</ref>. Telly, who likes <ref type="abstract" spec="sports">sports</ref> and has
         posters of combs. Telly the Barber seems to be the one who betrayed our community. Telly the
-        Barber. It is Telly the Barber at the corner of Southwest 5th Street and Old Musk Road, with
+        Barber. It is Telly the Barber at <ref type="place" spec="address">the corner of Southwest 5th Street and Old Musk Road</ref>, with
         the red and white spinning pole and the sign that says, “Telly’s.” Telly is about 5’9” with
-        a small mustache and a thick pot belly. He talks with an accent and sneers. Telly the Barber
+        a small mustache and a thick pot belly. He talks with <ref type="language" spec="accent">an accent</ref> and sneers. Telly the Barber
         cut Carlos’s beautiful hair. According to reports. Telly. </segment>
     <segment type="traffic" voice="cecil">Now, while I gather myself, let’s have a look at traffic. Oh, wow! Well, that looks
         pretty good. Yup. Yessss. Okay, not too bad there either I see. Oh! That gentleman needs to
         slow it down! It is not a race my friend! Not a literal one, anyway. That has been traffic. </segment>
     <segment type="main" voice="cecil">And now for an editorial. I don’t ask favors much, dear listeners, that you know. But
-        I’m asking all of you now to conduct a letter-writing campaign to station management, which
+        I’m asking all of you now to conduct <ref type="abstract" spec="writing">a letter-writing campaign</ref> to <ref type="nonperson" spec="stationManagement">station management</ref>, which
         was not…pleased with my discussion of their physical attributes and behavior and is now
-        threatening to shut down my show — or possibly my life — for good. There wording was…kind of
+        threatening to shut down my show — or possibly my life — for good. Their wording was…kind of
         ambiguous. Obviously we will not be able to deliver the letters directly to the management,
         per se, as no one has ever opened their door; but we can shout the content of the letters
         outside their office and we presume, given an anatomy that includes ears, they will be able
@@ -107,32 +107,32 @@
         then we need to hear from you. Make your voice heard to whatever it is that lies in wait
         behind that darkened office door. </segment>
     <segment type="advert" voice="cecil">Oh! I’m sorry dear listeners. We’ll be back after this word from our sponsors. This
-        segment has been brought to us by Big Rico’s Pizza. Listeners, we are proud to have Big
+        segment has been brought to us by <ref type="place" spec="bigRicos">Big Rico’s Pizza</ref>. Listeners, we are proud to have Big
         Rico’s as a sponsor of our show. You will not find a better pizza joint in all of Night Vale
         then Big Rico’s. Just the other night, I stopped by Big Rico’s. I was in the mood for a
         delicious pizza slice. And since Big Rico’s is the only pizza place in Night Vale that has
-        not burnt to the ground in an unsolved arson case (and did I mention is also the best pizza
+        not burnt to the ground in an unsolved <ref type="abstract" spec="arson">arson</ref> case (and did I mention is also the best pizza
         in town), I ordered a single Rico’s slice with two authentic toppings. And boy, was I
         satisfied. The flavor was scrumptious. The taste was also scrumptious. And it was warm, the
-        pizza slice. I have been told that even the Hooded Figures eat there; the wait staff look
+        pizza slice. I have been told that even <ref type="group" spec="hoodedFigure">the Hooded Figures</ref> eat there; the wait staff look
         like they avert their hollow gazes quite a bit. Even the City Council offers its ringing
         endorsement of Big Rico’s. All Night Vale citizens are mandated to eat at Big Rico’s once a
         week. It is a misdemeanor not to. Big Rico’s Pizza. No one does a slice like Big Rico,
         folks! No one. </segment>
     <segment type="weather" voice="weather">And now, sweet, sweet listeners…the weather. [“Bill and Annie" by Chuck Brodsky] </segment>
-    <segment type="main" voice="cecil">Hello, radio audience. I come to you live from under my desk, where I dragged my
-        microphone and am currently hiding in the fetal position. Did you write letters? Then you
-        should not do this anymore. Station management has opened its door for the first time in my
+    <segment type="main" voice="cecil">Hello, radio audience. I come to you live from under my desk, where I dragged <ref type="object" spec="recordingEquip">my
+        microphone</ref> and am currently hiding in the fetal position. Did you <ref type="abstract" spec="writing">write letters</ref>? Then you
+        should not do this anymore. <ref type="nonperson" spec="stationManagement">Station management</ref> has opened its door for the first time in my
         memory, and is now roaming the building. I don’t know exactly what management looks like, as
         that is when I took cover under my desk and I can only hope that they are not listening to
         what’s going out right now or else I may have sealed my fate. I can hear only a kind of
-        clicking footstep, and faint hissing sound like — releasing steam. An intern went to see
+        clicking footstep, and faint hissing sound like — releasing steam. <ref type="person" spec="intern">An intern</ref> went to see
         what management wanted and has not returned. If you are related to Jerry Hartman, afternoon
         board operator at Night Vale Community Radio, I am sorry to inform you that he is probably
         dead or at least corporeally absorbed into management permanently! Jerry and Chad the
-        interns will both be missed, but we will surely see them in the Thanksgiving Day Dead
-        Citizens Impersonation Contest, which this year will be in the employee lounge under the
-        Night Vale Mall from 11:00 AM to 9:45 PM. There will be a cash bar and two Twister boards. I
+        interns will both be missed, but we will surely see them in the <ref type="abstract" spec="thanksgivingContest">Thanksgiving Day Dead
+        Citizens Impersonation Contest</ref>, which this year will be in the employee lounge under <ref type="place" spec="mall">the
+        Night Vale Mall</ref> from 11:00 AM to 9:45 PM. There will be a cash bar and two <ref type="culture" spec="twister">Twister boards</ref>. I
         am going to see if I can make a break for the door. </segment>
     <segment type="closing" voice="cecil">If you don’t hear from me again, it has truly been a pleasure. Good night, Night Vale.
         And goodbye! </segment>
