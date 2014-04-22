@@ -3,48 +3,48 @@
 <episode num="4" title="ptaMeeting" airdate="2012-08-01">
     <segment type="intro" voice="cecil">The sun has grown so very, very old. How long cold, fading death? How long? Welcome to
         Night Vale. </segment>
-    <segment type="main" voice="cecil">Our top story: Last night’s Night Vale PTA meeting ended in bloodshed as a rift in
-        space-time split open in the Main Street Recreation Center Auditorium, setting loose several
-        confused and physically aggressive pteranodons. The glowing portal remained open and
+    <segment type="main" voice="cecil">Our top story: Last night’s <ref type="group" spec="pta">Night Vale PTA</ref> meeting ended in bloodshed as <ref type="object" spec="dimensionalRift">a rift in
+        space-time</ref> split open in <ref type="place" spec="auditorium">the Main Street Recreation Center Auditorium</ref>, setting loose several
+        confused and physically aggressive <ref type="nonperson" spec="dinosaur">pteranodons</ref>. The glowing portal remained open and
         shrieked incessantly, an unholy sound that witnesses say resembled noisy urchin children
         caught in a combine harvester, and then slowed down and amped up through some kind of open
         source, easy-to-use audio editing software. The pteranodons mostly attacked women with
-        glasses. Authorities are still unsure why, as Night Vale’s only flying dinosaur expert, Joel
-        Eisenberg, still has not recovered from last year’s bout with throat spiders. It took most
+        <ref type="object" spec="glasses">glasses</ref>. Authorities are still unsure why, as Night Vale’s only flying dinosaur expert, <ref type="person" spec="joelEisenberg">Joel
+        Eisenberg</ref>, still has not recovered from last year’s bout with <ref type="abstract" spec="throatSpiders">throat spiders</ref>. It took most
         of an hour to corral the panicked beasts back into the vortex and resume the meeting, which
         had mostly been upon recent lunchroom price hikes, and had devolved into name calling
-        because Susan Willman called Diane Crayton’s son Josh “a bit tubby,” and that “maybe he
+        because <ref type="person" spec="susanWillman">Susan Willman</ref> called <ref type="person" spec="dianeCrayton">Diane Crayton</ref>’s son <ref type="person" spec="joshCrayton">Josh</ref> “a bit tubby,” and that “maybe he
         needs a financial incentive to eat less.” In this reporter’s opinion, Susan Willman is
         dangerously obsessed with the New York Times best-selling Freakonomics books. Dangerously
         so. Fortunately, no one was injured or killed in the incident, although experts from
-        Timothy’s Auditorium Repair Contractors Inc. estimates close to $750,000 in damage has been
+        <ref type="group" spec="contractor">Timothy’s Auditorium Repair Contractors Inc</ref>. estimates close to $750,000 in damage has been
         done to the Rec Center Auditorium. And that cost includes free storm windows and a
         complementary seasonal installation consultation. </segment>
-    <segment type="news" voice="cecil">It’s election season again, and you know what that means! Sheriff’s Secret Police will
-        be coming by to collect certain family members so that everyone votes for the correct
-        council seats and there’s no confusion. These family members will be held in a secure and
-        undisclosed location, which everyone knows is the Abandoned Mine Shaft outside of town. But,
+    <segment type="news" voice="cecil">It’s <ref type="abstract" spec="election">election</ref> season again, and you know what that means! <ref type="group" spec="secPol">Sheriff’s Secret Police</ref> will
+        be coming by to collect certain family members so that everyone votes for <ref type="group" spec="cityCouncil">the correct
+        council seats</ref> and there’s no confusion. These family members will be held in a secure and
+        undisclosed location, which everyone knows is <ref type="place" spec="mineShaft">the Abandoned Mine Shaft outside of town</ref>. But,
         don’t let the name fool you, listeners: it’s been used for years for so many kidnappings and
         illegal detentions that the Abandoned Mine Shaft outside of town is actually a pretty nice
-        location these days, featuring king-sized beds, free wifi, and HBO. Also torture cubicles,
+        location these days, featuring king-sized beds, free wifi, and <ref type="culture" spec="hbo">HBO</ref>. Also torture cubicles,
         but I don’t think anyone’s going to make the Council use those. Remember, this is America.
         Vote correctly, or never see your loved ones again. This message brought to you by the City
         Council. </segment>
-    <segment type="news" voice="cecil">The Night Vale Daily Journal today announced that due to the recent economic downturn,
+    <segment type="news" voice="cecil">The <ref type="object" spec="newspaper">Night Vale Daily Journal</ref> today announced that due to the recent economic downturn,
         they will start running ads on the front page. Any business interested in running one of
-        these Platinum Premium ads should contact editor Leanne Hart. Hart mentioned that they have
-        also created a “Write Your Own News Story” program for interested citizens. Because every
+        these Platinum Premium ads should contact editor <ref type="person" spec="leanneHart">Leanne Hart</ref>. Hart mentioned that they have
+        also created a <ref type="abstract" spec="writing">“Write Your Own News Story”</ref> program for interested citizens. Because every
         writer has been laid off, the Daily Journal now needs these community contributions to
         supply Night Vale with important news and features. The first Platinum Premium ad runs next
         Monday and features the terrified face of an infant primate with a superimposed spoon that
-        has been stone-sharpened to a rough point, and the tagline “Better use Tide.” Hart also said
+        has been stone-sharpened to a rough point, and the tagline “Better use <ref type="culture" spec="tide">Tide</ref>.” Hart also said
         that last year’s explosion that decimated the Daily Journal’s distribution plant is still
         totally an accident, and would like her insurance rep to call her back. Please. Call her
         back. </segment>
-    <segment type="main" voice="cecil">This just came across the wire: The Secret Police have issued a new statement shedding
-        more light onto last night’s PTA meeting incident. The noisy portal and subsequent dinosaur
+    <segment type="main" voice="cecil">This just came across the wire: <ref type="group" spec="secPol">The Secret Police</ref> have issued a new statement shedding
+        more light onto last night’s <ref type="group" spec="pta">PTA</ref> meeting incident. <ref type="object" spec="dimensionalRift">The noisy portal</ref> and subsequent <ref type="nonperson" spec="dinosaur">dinosaur</ref>
         attack that brutally interrupted discussion of swing set repairs on the elementary school
-        playground stayed open long after Recreation Center employees thought they had rounded up
+        playground stayed open long after <ref type="place" spec="auditorium">Recreation Center</ref> employees thought they had rounded up
         all of the ancestral avian beasts, and authorities warn that there is still at least one
         more pteranodon on the loose. Citizens should cover themselves with a low-SPF sunscreen and
         hide in a tiled bathroom. Several curious handball players in the court next to the
@@ -52,21 +52,21 @@
         side of the vortex — and came back dramatically changed. The players aged several thousand
         years in what bystanders experienced as only a few seconds. Those handball players now
         straddle the unenviable border of millennially wizened and cripplingly insane. Since
-        psychological and emotional damages are no longer considered valid claims by the greater
-        medical insurance community, we are still reporting zero injuries. We’ll update you as
-        further details surface in our special ongoing and very special coverage of Pteranodon
-        Attack-Gate. Are we safe from dinosaurs? No way. </segment>
-    <segment type="psa" voice="cecil">City Council has asked me to read the following message: If you notice strange auras
-        around any of the following objects in your house: blender, shower head, dog, husband, wife,
+        <ref type="abstract" spec="health">psychological and emotional damages are no longer considered valid claims by the greater
+        medical insurance community</ref>, we are still reporting zero injuries. We’ll update you as
+        further details surface in our special ongoing and very special coverage of <ref type="culture" spec="watergate">Pteranodon
+        Attack-Gate</ref>. Are we safe from dinosaurs? No way. </segment>
+    <segment type="psa" voice="cecil"><ref type="group" spec="cityCouncil">City Council</ref> has asked me to read the following message: If you notice strange auras
+        around any of the following objects in your house: blender, shower head, <ref type="nonperson" spec="dog">dog</ref>, husband, wife,
         table, chair, doorknob, baseboard, vacation souvenirs or photos, collectibles of any kind
-        (especially those depicting or involving horses), DVDs (especially Cliffhanger, There’s
-        Something About Mary, and The Wire 4th season), and any bagged lettuce from California or
-        Mexico, please, report to the Council for indefinite detention. </segment>
-    <segment type="news" voice="cecil">Speaking of the City Council, it voted this week to remove the large lead-plated door
-        from the northeastern-most crook of Radon Canyon — you know, the area pulsing with green
+        (especially those depicting or involving <ref type="nonperson" spec="horse">horses</ref>), DVDs (especially <ref type="culture" spec="tv">Cliffhanger</ref>, <ref type="culture" spec="tv">There’s
+        Something About Mary</ref>, and <ref type="culture" spec="tv">The Wire 4th season</ref>), and any bagged lettuce from <ref type="place" spec="california">California</ref> or
+        <ref type="place" spec="mexico">Mexico</ref>, please, report to the Council for indefinite detention. </segment>
+    <segment type="news" voice="cecil">Speaking of <ref type="group" spec="cityCouncil">the City Council</ref>, it voted this week to remove the large lead-plated door
+        from the northeastern-most crook of <ref type="place" spec="radonCanyon">Radon Canyon</ref> — you know, the area pulsing with green
         light and sotto voce basso humming. Proponents of the measure called the large yellow emblem
-        and red lettering that spelled out: DANGER- PLUTONIUM- DO NOT OPEN DOOR- RISK OF DEATH-
-        …were, at worst, an offensive eyesore and, at best, a hacky sci-fi cliche. Many Night Vale
+        and red lettering that spelled out: DANGER- PLUTONIUM- DO NOT OPEN DOOR- RISK OF <ref type="abstract" spec="death">DEATH</ref>-
+        …were, at worst, an offensive eyesore and, at best, <ref type="abstract" spec="sf">a hacky sci-fi cliche</ref>. Many Night Vale
         citizens attended the meeting including, it was said, several angels — although no angel is
         admitted to have been present for the City Council meeting…or any other event ever, for that
         matter. Old Woman Josie agreed with the measure, adding that lead is a health hazard, and

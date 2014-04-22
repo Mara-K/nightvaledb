@@ -14,120 +14,143 @@
             <p>Select a category and a topic, and find all references to that topic. No blood sacrifice necessary. Yet.</p>
             <select id="type"><!--Make all the others display="none", and have the Javascript change it to "block" when the right one is selected-->
                 <option>Select a category</option>
-                <option>Abstract concepts</option>
-                <option>Animals and Supernatural</option>
-                <option>Cultural icons</option>
-                <option>Groups and Organizations</option>
-                <option>Languages</option>
-                <option>Objects</option>
-                <option>People</option>
-                <option>Places</option>
+                <option class="abstract">Abstract concepts</option>
+                <option class="nonperson">Animals and Supernatural</option>
+                <option class="culture">Cultural icons</option>
+                <option class="group">Groups and Organizations</option>
+                <option class="language">Languages</option>
+                <option class="object">Objects</option>
+                <option class="person">People</option>
+                <option class="place">Places</option>
             </select>
-            <select class="second" id="person">
+            <select class="person"> <!--These grow fast. Can I write XQuery to generate them on the fly?-->
                 <option>Select a topic</option>
-                <option>Apache Tracker</option>
-                <option>Carlos</option>
-                <option>Frank Chen</option>
-                <option>Hiram McDaniels</option>
-                <option>Leanne Hart</option>
-                <option>Louis Blasco</option>
-                <option>John Peters</option>
-                <option>Larry Leroy</option>
-                <option>Old Woman Josie</option>
-                <option>Radio station interns</option>
-                <option>Teddy Williams</option>
-                <option>Telly the Barber</option>
+                <option id="apacheTracker">Apache Tracker</option>
+                <option id="carlos">Carlos</option>
+                <option id="frankChen">Frank Chen</option>
+                <option id="hiram">Hiram McDaniels</option>
+                <option id="leanneHart">Leanne Hart</option>
+                <option id="louieBlasco">Louie Blasco</option>
+                <option id="johnPeters">John Peters</option>
+                <option id="larryLeroy">Larry Leroy</option>
+                <option id="josie">Old Woman Josie</option>
+                <option id="intern">Radio station interns</option>
+                <option id="teddyWilliams">Teddy Williams</option>
+                <option id="tellyBarber">Telly the Barber</option>
             </select>
-            <select class="second" id="nonperson">
+            <select class="nonperson">
                 <option>Select a topic</option>
-                <option>Birds</option>
-                <option>Dogs</option>
-                <option>Glow Cloud</option>
-                <option>Khoshekh</option>
-                <option>Lights over the Arby's</option>
-                <option>Lions</option>
-                <option>Reptiles</option>
-                <option>Station Management</option>
-                <option>The sun</option>
+                <option id="bird">Birds</option>
+                <option id="dog">Dogs</option>
+                <option id="glowCloud">Glow Cloud</option>
+                <option id="khoshekh">Khoshekh</option>
+                <option id="arbysLights">Lights over the Arby's</option>
+                <option id="lion">Lions</option>
+                <option id="reptile">Reptiles</option>
+                <option id="stationManagement">Station Management</option>
+                <option id="sun">The sun</option>
             </select>
-            <select class="second" id="group">
+            <select class="group">
                 <option>Select a topic</option>
-                <option>Angels</option>
-                <option>Animal Control</option>
-                <option>Boy Scouts</option>
-                <option>Business Association</option>
-                <option>Carlos' team of scientists</option>
-                <option>Children</option>
-                <option>City Council</option>
-                <option>Hooded Figures</option>
-                <option>Mysterious Helicopters</option>
-                <option>NRA</option>
-                <option>People from the underground city</option>
-                <option>PTA</option>
-                <option>Sheriff's Secret Police</option>
-                <option>Tourism Board</option>
-                <option>Trees</option>
-                <option>Vague Yet Menacing Government Agency</option>
+                <option id="angels">Angels</option>
+                <option id="animalControl">Animal Control</option>
+                <option id="boyScouts">Boy Scouts</option>
+                <option id="businessAssoc">Business Association</option>
+                <option id="scienceTeam">Carlos' team of scientists</option>
+                <option id="children">Children</option>
+                <option id="cityCouncil">City Council</option>
+                <option id="hoodedFigure">Hooded Figures</option>
+                <option id="mysteryHelicopter">Mysterious Helicopters</option>
+                <option id="nra">NRA</option>
+                <option id="tinyPeople">People from the underground city</option>
+                <option id="pta">PTA</option>
+                <option id="secPol">Sheriff's Secret Police</option>
+                <option id="tourismBoard">Tourism Board</option>
+                <option id="tree">Trees</option>
+                <option id="worldGovt">Vague Yet Menacing Government Agency</option>
             </select>
-            <select class="second" id="language">
+            <select class="language">
                 <option>Select a topic</option>
-                <option>Accents</option>
-                <option>Russian</option>
-                <option>Spanish</option>
+                <option id="accent">Accents</option>
+                <option id="russian">Russian</option>
+                <option id="spanish">Spanish</option>
             </select>
-            <select class="second" id="object">
+            <select class="object">
                 <option>Select a topic</option>
-                <option>Airplanes</option>
-                <option>Alert Citizen Card</option>
-                <option>Books</option>
-                <option>Carlos' perfect face</option>
-                <option>Carlos' perfect hair</option>
-                <option>Envelopes</option>
-                <option>Eternal Animal Pyre</option>
-                <option>Flags</option>
-                <option>Flowers</option>
-                <option>Ghost cars</option>
-                <option>Helicopters</option>
-                <option>Ice cream</option>
-                <option>Lab coats</option>
-                <option>Milk</option>
-                <option>Newspapers</option>
-                <option>Recording equipment</option>
-                <option>Salt</option>
-                <option>Scientific equipment</option>
-                <option>Teeth</option>
-                <option>Trash</option>
-                <option>Umbrellas</option>
-                <option>Vanilla</option>
-                <option>Wheat and wheat by-products</option>
+                <option id="airplane">Airplanes</option>
+                <option id="alertCitizenCard">Alert Citizen Card</option>
+                <option id="book">Books</option>
+                <option id="carlosFace">Carlos' perfect face</option>
+                <option id="carlosHair">Carlos' perfect hair</option>
+                <option id="envelope">Envelopes</option>
+                <option id="animalPyre">Eternal Animal Pyre</option>
+                <option id="flag">Flags</option>
+                <option id="flower">Flowers</option>
+                <option id="ghostCar">Ghost cars</option>
+                <option id="helicopter">Helicopters</option>
+                <option id="iceCream">Ice cream</option>
+                <option id="carlosLabCoat">Lab coats</option>
+                <option id="milk">Milk</option>
+                <option id="newspaper">Newspapers</option>
+                <option id="recordingEquip">Recording equipment</option>
+                <option id="salt">Salt</option>
+                <option id="sciEquip">Scientific equipment</option>
+                <option id="teeth">Teeth</option>
+                <option id="trash">Trash</option>
+                <option id="umbrella">Umbrellas</option>
+                <option id="vanilla">Vanilla</option>
+                <option id="bread">Wheat and wheat by-products</option>
             </select>
-            <select class="second" id="abstract">
+            <select class="abstract">
                 <option>Select a topic</option>
-                <option>Arson</option>
-                <option>Art</option>
-                <option>Creeping Fear</option>
-                <option>Death</option>
-                <option>Earthquake</option>
-                <option>Education</option>
-                <option>Insurance</option>
-                <option>Health</option>
-                <option>Hooded Figure Parade</option>
-                <option>Love</option>
-                <option>Lyme Disease</option>
-                <option>Science</option>
-                <option>Sports</option>
-                <option>Thanksgiving Day Dead Citizens Impersonation Contest</option>
-                <option>Visitable Night Vale</option>
-                <option>Void</option>
-                <option>War</option>
-                <option>Weather</option>
-                <option>Writing</option>
+                <option id="arson">Arson</option>
+                <option id="art">Art</option>
+                <option id="creepingFear">Creeping Fear</option>
+                <option id="death">Death</option>
+                <option id="earthquake">Earthquake</option>
+                <option id="education">Education</option>
+                <option id="insurance">Insurance</option>
+                <option id="health">Health</option>
+                <option id="hoodedFigureParade">Hooded Figure Parade</option>
+                <option id="love">Love</option>
+                <option id="lymeDisease">Lyme Disease</option>
+                <option id="science">Science</option>
+                <option id="sports">Sports</option>
+                <option id="thanksgivingContest">Thanksgiving Day Dead Citizens Impersonation Contest</option>
+                <option id="visitable">Visitable Night Vale</option>
+                <option id="void">Void</option>
+                <option id="war">War</option>
+                <option id="weather">Weather</option>
+                <option id="writing">Writing</option>
 
             </select>
-            <select class="second" id="place">
+            <select class="place">
                 <option>Select a topic</option>
+                <option id="bigRicos">Big Rico's</option>
+                <option id="carLot">Car Lot</option>
+                <option id="lab">Carlos' laboratory</option>
+                <option id="desertBluffs">Desert Bluffs</option>
+                <option id="bowlingAlley">Desert Flower Bowling Alley and Arcade Fun Complex</option>
+                <option id="dogPark">Dog Park</option>
+                <option id="home">Home</option>
+                <option id="phantomHouse">The house that doesn't exist</option>
+                <option id="musicShop">Louie Blasco's music shop</option>
+                <option id="elementary">Night Vale Elementary School</option>
+                <option id="postOffice">Night Vale Post Office</option>
+                <option id="library">Night Vale Public Library</option>
+                <option id="oldTown">Old Town Night Vale</option>
+                <option id="radonCanyon">Radon Canyon</option>
+                <option id="ralphs">The Ralph's</option>
+                <option id="redMesa">Red Mesa</option>
+                <option id="rte800">Route 800</option>
+                <option id="sandWastes">The Sand Wastes</option>
+                <option id="quakeStation">Seismic monitoring station</option>
+                <option id="address">Street addresses</option>
+                <option id="tinyCity">Underground city under the bowling alley</option>
+                <option id="waterfront">Waterfront</option>
+                <option id="iceCreamShop">White Sand Ice Cream Shop</option>
             </select>
-            <select class="second" id="culture">
+            <select class="culture">
                 <option>Select a topic</option>
             </select>
             <button id="topicButton">Search topics</button>
@@ -143,6 +166,13 @@
                 <option>Weather</option>
             </select>
             <button id="segmentButton">Search segments</button>
+        </div>
+        <div id="speakers">
+            <h2>Search by speaker name</h2>
+            <select id="voices">
+                <option>Select a character</option>
+                <option>Cecil</option>
+            </select>
         </div>
         <div id="results">
         </div>

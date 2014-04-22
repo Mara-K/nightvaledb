@@ -4,25 +4,16 @@ num = attribute num {xsd:int|"19A"|"19B"|"40.5"}
 title = attribute title {text}
 airdate = attribute airdate {text}
 
-segment = element segment {type, voice, mixed{ref*}}
-type = attribute type {"intro"|"news"|"traffic"|"personal"|"advert"|"main"|"weather"|"calendar"|"guest"|"science"|"psa"|"closing"|"proverb"}
+segment = element segment {type, voice, mixed{(ref|line)*}}
+type = attribute type {"intro"|"news"|"traffic"|"personal"|"advert"|"main"|"weather"|"calendar"|"guest"|"dialogue"|"science"|"psa"|"closing"|"proverb"}
 voice = attribute voice {"cecil"|"weather"|"credits"|"fow"|"kevin"|"dana"|"carlos"|"hiram"|"lauren"} #Lauren is Peppy Girl. Add more as they appear.
 
 ref = element ref {reftype, spec, text}
 reftype = attribute type {"person"|"nonperson"|"group"|"place"|"culture"|"object"|"language"|"abstract"}
 spec = attribute spec {text}
-#constrain later on with Schematron so that certain @spec values can only co-occur with certain //ref/@type values.
-#Examples of specs:
-#People: Carlos, Old Woman Josie, Hiram McDaniels, the Faceless Old Woman Who Secretly Lives In Your House, Intern Dana
-#Nonpeople: Khoshekh, the sun, the Shape in Grove Park, the Glow Cloud, Station Management, Feral Dogs (nonsentient but with apparent agency)
-#Groups: Hooded Figures (singular and plural mention), Vague Yet Menacing Government Organization, Boy Scouts, the staff of Dark Owl Records
-#Places: Radio station, Dog Park, the Sand Wastes, Desert Bluffs
-#Cultural icons: Pink Floyd, Pledge of Allegiance
-#Objects: airplane, coffee/coffee cup and other food items, microphone, cactus, bloodstone
-#Languages: Spanish, Weird Spanish, Russian, Modified Sumerian
-#Abstractions:  time, science, pseudoscience, hope, the void, love, prophecy, death
+
+line = element line {voice, mixed{ref*}} #for "dialogue" segments only
 
 #End goal: Create a database: dropdown menu for each kind of @type contains that @type’s @spec values.
 #Can search for references IN SEGMENT CONTEXT using interactive XQuery.
 #Hope to expand this idea to larger fictional corpora like Doctor Who.
-# If I mark up multiple references to the same thing in one segment, how do I keep them from repeating?

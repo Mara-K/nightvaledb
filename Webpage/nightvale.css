@@ -7,6 +7,6 @@ body{
     background-color:purple;
     color:black;
 }
-select.second{
+select.person,select.nonperson,select.place,select.group,select.abstract,select.language,select.object,select.culture{
     display:none;
 }
