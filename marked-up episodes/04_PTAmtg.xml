@@ -1,6 +1,6 @@
 ﻿<?xml-model href="nightvale_structure.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="specConstrain.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<episode num="4" title="ptaMeeting" airdate="2012-08-01">
+<episode id="ptaMeeting">
     <segment type="intro" voice="cecil">The sun has grown so very, very old. How long cold, fading death? How long? Welcome to
         Night Vale. </segment>
     <segment type="main" voice="cecil">Our top story: Last night’s <ref type="group" spec="pta">Night Vale PTA</ref> meeting ended in bloodshed as <ref type="object" spec="dimensionalRift">a rift in
@@ -27,7 +27,7 @@
         don’t let the name fool you, listeners: it’s been used for years for so many kidnappings and
         illegal detentions that the Abandoned Mine Shaft outside of town is actually a pretty nice
         location these days, featuring king-sized beds, free wifi, and <ref type="culture" spec="hbo">HBO</ref>. Also torture cubicles,
-        but I don’t think anyone’s going to make the Council use those. Remember, this is America.
+        but I don’t think anyone’s going to make the Council use those. Remember, this is <ref type="place" spec="usa">America</ref>.
         Vote correctly, or never see your loved ones again. This message brought to you by the City
         Council. </segment>
     <segment type="news" voice="cecil">The <ref type="object" spec="newspaper">Night Vale Daily Journal</ref> today announced that due to the recent economic downturn,
@@ -47,7 +47,7 @@
         playground stayed open long after <ref type="place" spec="auditorium">Recreation Center</ref> employees thought they had rounded up
         all of the ancestral avian beasts, and authorities warn that there is still at least one
         more pteranodon on the loose. Citizens should cover themselves with a low-SPF sunscreen and
-        hide in a tiled bathroom. Several curious handball players in the court next to the
+        hide in a tiled bathroom. Several curious <ref type="abstract" spec="sports">handball</ref> players in the court next to the
         auditorium actually popped their heads into the portal — just to see what was on the other
         side of the vortex — and came back dramatically changed. The players aged several thousand
         years in what bystanders experienced as only a few seconds. Those handball players now
@@ -66,77 +66,77 @@
         from the northeastern-most crook of <ref type="place" spec="radonCanyon">Radon Canyon</ref> — you know, the area pulsing with green
         light and sotto voce basso humming. Proponents of the measure called the large yellow emblem
         and red lettering that spelled out: DANGER- PLUTONIUM- DO NOT OPEN DOOR- RISK OF <ref type="abstract" spec="death">DEATH</ref>-
-        …were, at worst, an offensive eyesore and, at best, <ref type="abstract" spec="sf">a hacky sci-fi cliche</ref>. Many Night Vale
-        citizens attended the meeting including, it was said, several angels — although no angel is
+        …were, at worst, an offensive eyesore and, at best, <ref type="culture" spec="sf">a hacky sci-fi cliche</ref>. Many Night Vale
+        citizens attended the meeting including, it was said, <ref type="group" spec="angels">several angels</ref> — although no angel is
         admitted to have been present for the City Council meeting…or any other event ever, for that
-        matter. Old Woman Josie agreed with the measure, adding that lead is a health hazard, and
+        matter. <ref type="person" spec="josie">Old Woman Josie</ref> agreed with the measure, adding that lead is a health hazard, and
         that the old door was nothing but a ticking time bomb. According to the meeting minutes,
-        Josie said, “That old door. Oooh, that door! Someone’s gonna get some kind of lead
-        poisoning!” Carlos, beautiful Carlos, tragically shorn of his locks, reportedly was the only
+        Josie said, <quote quoted="josie">“That old door. Oooh, that door! Someone’s gonna get some kind of lead
+        poisoning!”</quote> <ref type="person" spec="carlos">Carlos, beautiful Carlos</ref>, tragically shorn of <ref type="object" spec="carlosHair">his locks</ref>, reportedly was the only
         dissenting voice. But it is not clear he actually opposed the measure, as the minutes only
-        report him stating, “There is no time. No more time,” into a black rectangle in his hand,
-        and then running, winded, from the Community Hall. According to Old Woman Josie, he was
-        still absolutely perfect, and smelled of lavender chewing gum. </segment>
-    <segment type="main" voice="cecil">More breaking news on the pteranodons. We humbly offer the following retractions from
-        our previous reports: Secret Police are now reporting that the offending beasts were not
+        report him stating, <quote quoted="carlos">“There is no time. No more time,”</quote> into a black rectangle in his hand,
+        and then running, winded, from <ref type="place" spec="communityHall">the Community Hall</ref>. According to Old Woman Josie, he was
+        still absolutely perfect, and smelled of <ref type="object" spec="chewingGum">lavender chewing gum</ref>. </segment>
+    <segment type="main" voice="cecil">More breaking news on the <ref type="nonperson" spec="dinosaur">pteranodons</ref>. We humbly offer the following retractions from
+        our previous reports: <ref type="group" spec="secPol">Secret Police</ref> are now reporting that the offending beasts were not
         pteranodons after all, but pterodactyls. Also, pteranodons aren’t even dinosaurs as this
         station previously stated — just winged reptiles that lived about 70 million years after
-        pterodactyls. Finally, earlier we reported a death toll of zero when, in fact, the number is
+        pterodactyls. Finally, earlier we reported a <ref type="abstract" spec="death">death toll</ref> of zero when, in fact, the number is
         closer to 38. We regret these errors. </segment>
-    <segment type="news" voice="cecil">It’s almost football season, and the Night Vale Scorpions are gearing up for a defense
-        of the high school division title. But really, as long as we beat Desert Bluffs, fans and
-        Hooded Figures alike will feel just fine. Coach Nazr al-Mujaheed told reporters he’s
-        particularly excited for the progress junior quarterback Michael Sandero made during the
-        off-season, after that sentient lightning bolt struck him and give him the strength of two
-        Jeeps and the intelligence of a heavily concussed Rene Descartes. But, if Night Vale is
-        going to beat their bitter rivals this year, and stave off the government-administered
-        pestilence the follows a losing season record, Sandero will have to improve his accuracy.
-        Last year, Sandero only completed two out of 130 pass attempt — most notably because he was
+    <segment type="news" voice="cecil">It’s almost <ref type="abstract" spec="sports">football</ref> season, and <ref type="group" spec="nvSportsTeam">the Night Vale Scorpions</ref> are gearing up for a defense
+        of the high school division title. But really, as long as we beat <ref type="place" spec="desertBluffs">Desert Bluffs</ref>, fans and
+        <ref type="group" spec="hoodedFigure">Hooded Figures</ref> alike will feel just fine. <ref type="person" spec="coachNazr">Coach Nazr al-Mujaheed</ref> told <ref type="group" spec="journalists">reporters</ref> he’s
+        particularly excited for the progress <ref type="person" spec="michaelSandero">junior quarterback Michael Sandero</ref> made during the
+        off-season, after that <ref type="nonperson" spec="sentientLightning">sentient lightning bolt</ref> struck him and give him the strength of two
+        <ref type="culture" spec="jeep">Jeeps</ref> and the intelligence of <ref type="culture" spec="descartes">a heavily concussed Rene Descartes</ref>. But, if Night Vale is
+        going to beat their bitter rivals this year, and stave off the <ref type="abstract" spec="pestilence">government-administered
+        pestilence</ref> the follows a losing season record, Sandero will have to improve his accuracy.
+        Last year, Sandero only completed two out of 130 pass attempts — most notably because he was
         in advanced stages of cerebral palsy, and because his throwing hand had been removed due to
-        several overdue library books. Apparently the off-season lightning strike had healed Sandero
+        several overdue <ref type="object" spec="book">library books</ref>. Apparently the off-season lightning strike had healed Sandero
         of his terminal ailments and court-ordered amputations, and he’s ready to take on Desert
         Bluffs, which is probably the worst team ever. God, they’re dreadful. </segment>
-    <segment type="personal" voice="cecil">And now, an editorial. Let’s talk for a moment about apartment building etiquette. Now,
+    <segment type="personal" voice="cecil">And now, an editorial. Let’s talk for a moment about <ref type="place" spec="aptBldg">apartment building</ref> etiquette. Now,
         I myself live in an apartment building, and there is a compassion and acceptance you have to
         have for a certain level of annoyance. It’s people in close proximity to each other, and so
         there will be some things that you don’t like, and still have to let go. But other things
         are absolutely unacceptable! For instance, a certain level of strange radiating light or
         heat on shared walls is expected, but any oozings or visible membranes are rude and
-        thoughtless to all of your neighbors. Gibbering, howling, and chants in long-dead languages
+        thoughtless to all of your neighbors. Gibbering, howling, and <ref type="abstract" spec="chanting">chants in long-dead languages</ref>
         are the kind of thing that is fine at 1:00 PM, but absolutely not fine at 1:00 AM. We are
-        all in this together. Put your trash in the cans, not in the hallway leading to the cans.
+        all in this together. Put your <ref type="object" spec="trash">trash</ref> in the cans, not in the hallway leading to the cans.
         Put on some clothes when standing in front of your windows, and keep any rituals or crazed
         experiments to hours in which no one is trying to sleep. It doesn’t have to be hard. </segment>
-    <segment type="personal" voice="cecil">We have a very unexpected treat today, dear listeners. Live in the studio we have one
-        of the mysterious Hooded Figures often seen around town. We did not actually invite him
+    <segment type="personal" voice="cecil">We have a very unexpected treat today, dear listeners. Live in the studio we have <ref type="group" spec="hoodedFigure">one
+        of the mysterious Hooded Figures often seen around town</ref>. We did not actually invite him
         here, he just was waiting for us when we unlocked the studio this morning. He has not moved,
         nor spoken since then, and I’ll be honest: I am only guessing that “he” is a he, because
         physical attributes are hard to determine under these robes, and the face is entirely hidden
         in shadow as empty and as black as the void of space. But hey, we’re doin’ radio! He’s in a
         radio station. Let’s see if we can get an interview. Mr. Hooded Figure, how are you doing
-        today? Huh…okay. Care to comment on the recent expansion of the Forbidden Dog Park? Any
+        today? Huh…okay. Care to comment on the recent expansion of <ref type="place" spec="dogPark">the Forbidden Dog Park</ref>? Any
         comments at all? Anything you’d like to tell the ordinary folk of Night Vale about your
         organization? Listeners, I’m sure you can here this. It’s not a problem with your radio or
         our transmitters. The Hooded Figure is making those noises in our studio. It’s pretty
         deafening, actually. Alright! I don’t think he’s going to stop, and he’s started to
         levitate, so, let’s go to the weather. </segment>
     <segment type="weather" voice="weather">[“Closer" by The Tiny]</segment>
-    <segment type="main" voice="cecil">Ladies and Gentlemen, we have just received word from Secret Police that the rip in
-        space-time that opened at last night’s PTA meeting has been sealed at last. The final
-        missing pterodactyl has been returned to its own timeline in either prehistoric or
+    <segment type="main" voice="cecil">Ladies and Gentlemen, we have just received word from <ref type="group" spec="secPol">Secret Police</ref> that the rip in
+        space-time that opened at last night’s <ref type="group" spec="pta">PTA</ref> meeting has been sealed at last. <ref type="nonperson" spec="dinosaur">The final
+        missing pterodactyl</ref> has been returned to its own timeline in either prehistoric or
         alternate-universe Night Vale. The creature’s lifeless body was found a dozen yards outside
-        of the Dog Park entrance, stripped of all flesh, and with most of the organs inverted and
-        strung around its exposed skull like an old fashioned soft meats crown, as worn by the 18th
-        century religious leaders who settled our fair burgh. The dinosaur’s body was returned to
+        of <ref type="place" spec="dogPark">the Dog Park entrance</ref>, stripped of all flesh, and with most of the organs inverted and
+        strung around its exposed skull like an old fashioned <ref type="object" spec="softMeatCrown">soft meats crown</ref>, as worn by <ref type="group" spec="founders">the 18th
+        century religious leaders who settled our fair burgh</ref>. The dinosaur’s body was returned to
         the vortex, the gateway closed, and the PTA meeting rescheduled for next Tuesday at 6:00 PM.
         That meeting will continue to address the important issue of backpacks, and whether or not
-        they are causing autism. There will also be a memorial service for the 38 parents and
-        teachers who lost their lives in the attack — followed by a raffle. Remember, winners must
-        be present at the time of the drawing to claim their prizes. City Council and Secret Police
+        they are causing <ref type="abstract" spec="autism">autism</ref>. There will also be a memorial service for the 38 parents and
+        teachers who lost their lives in the attack — followed by <ref type="abstract" spec="raffle">a raffle</ref>. Remember, winners must
+        be present at the time of the drawing to claim their prizes. <ref type="group" spec="cityCouncil">City Council</ref> and Secret Police
         have issued a reminder that Night Vale citizens of all species and all geologic eras are not
         to enter, look at, or think too long about the Dog Park. This reminder, they say, is
         completely unrelated to anything that may or may not have happened today. </segment>
-    <segment type="closing" voice="cecil">Coming up next, stay tuned for our one-hour special, “Morse Code for Trumpet Quintets.”
+    <segment type="closing" voice="cecil"><nextShow>Coming up next, stay tuned for our one-hour special, “Morse Code for Trumpet Quintets.”</nextShow>
         And listeners, Night Vale is an ancient place, full of history and secrets — as we were
         reminded today. But it is also a place of the present moment, full of life, and of us. If
         you can hear my voice speaking live, then you know: we are not history yet. We are happening

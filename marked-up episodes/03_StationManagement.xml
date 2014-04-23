@@ -1,6 +1,6 @@
 ﻿<?xml-model href="nightvale_structure.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="specConstrain.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<episode num="3" title="stationManagement" airdate="2012-07-15">
+<episode id="stationManagement">
     <segment type="intro" voice="cecil">The arctic is lit by the midnight sun. The surface of the
         moon is lit by the face of the earth. Our little town is lit, too, by <ref type="nonperson" spec="arbysLights">lights just above that
         we cannot explain</ref>. Welcome to Night Vale.</segment>

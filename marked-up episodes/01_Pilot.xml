@@ -1,12 +1,12 @@
-﻿
+﻿<?xml-model href="nightvale_structure.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="specConstrain.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<episode num="1" title="pilot" airdate="2012-06-15">
+<episode id="pilot">
     <segment type="intro" voice="cecil">A friendly desert community where the sun is hot, the moon is beautiful,
         and mysterious lights pass overhead while we all pretend to sleep. Welcome to Night
         Vale.</segment>
 
     <segment type="news" voice="cecil">Hello, listeners. To start things off, I’ve been asked to read this
-        brief notice: <ref type="group" spec="cityCouncil">The City Council</ref> announces the opening of <ref type="dogPark" spec="dogPark">a new Dog Park</ref> at <ref type="place" spec="address">the corner of Earl
+        brief notice: <ref type="group" spec="cityCouncil">The City Council</ref> announces the opening of <ref type="place" spec="dogPark">a new Dog Park</ref> at <ref type="place" spec="address">the corner of Earl
         and Somerset</ref>, near <ref type="place" spec="ralphs">the Ralph’s</ref>. They would like to remind everyone that <ref type="nonperson" spec="dog">dogs</ref> are not allowed
         in the Dog Park. People are not allowed in the Dog Park. It is possible you will see <ref type="group" spec="hoodedFigure">Hooded
             Figures</ref> in the Dog Park. Do not approach them. Do not approach the Dog Park. The fence is

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <projectInfo>
+        The Night Vale Database Project was begun in March 2014 by Mara Katz. Transcripts were obtained with permission from cecilspeaks.tumblr.com.
+    </projectInfo>
+    <epiList>
+        <episode xml:id="pilot">
+            <title>Pilot</title>
+            <num>01</num>
+            <airdate>2012-06-15</airdate>
+        </episode>
+        <episode xml:id="glowCloud">
+            <title>Glow Cloud</title>
+            <num>02</num>
+            <airdate>2012-07-01</airdate>
+        </episode>
+        <episode xml:id="stationManagement">
+            <title>Station Management</title>
+            <num>03</num>
+            <airdate>2012-07-15</airdate>
+        </episode>
+        <episode xml:id="ptaMeeting">
+            <title>PTA Meeting</title>
+            <num>04</num>
+            <airdate>2012-08-01</airdate>
+        </episode>
+        <episode xml:id="groveParkShape">
+            <title>PTA Meeting</title>
+            <num>05</num>
+            <airdate>2012-08-15</airdate>
+        </episode>
+        <episode xml:id="drawbridge">
+            <title>The Drawbridge</title>
+            <num>06</num>
+            <airdate>2012-09-01</airdate>
+        </episode>
+        <episode xml:id="historyWeek">
+            <title>History Week</title>
+            <num>07</num>
+            <airdate>2012-09-15</airdate>
+        </episode>
+        <episode xml:id="radonCanyonLights">
+            <title>The Lights in Radon Canyon</title>
+            <num>08</num>
+            <airdate>2012-10-01</airdate>
+        </episode>
+        <episode xml:id="pyramid">
+            <title>PYRAMID</title>
+            <num>09</num>
+            <airdate>2012-10-15</airdate>
+        </episode>
+        <episode xml:id="feralDogs">
+            <title>Feral Dogs</title>
+            <num>10</num>
+            <airdate>2012-11-01</airdate>
+        </episode>
+        <episode xml:id="wheat">
+            <title>Wheat &amp; Wheat By-Products</title>
+            <num>11</num>
+            <airdate>2012-11-15</airdate>
+        </episode>
+        <episode xml:id="candidate">
+            <title>The Candidate</title>
+            <num>12</num>
+            <airdate>2012-12-01</airdate>
+        </episode>
+        <episode xml:id="yourStory">
+            <title>A Story About You</title>
+            <num>13</num>
+            <airdate>2012-12-15</airdate>
+        </episode>
+        <episode xml:id="tanJacket">
+            <title>The Man in the Tan Jacket</title>
+            <num>14</num>
+            <airdate>2013-01-01</airdate>
+        </episode>
+        <episode xml:id="streetCleaning">
+            <title>Street Cleaning Day</title>
+            <num>15</num>
+            <airdate>2013-01-15</airdate>
+        </episode>
+        <episode xml:id="phoneCall">
+            <title>The Phone Call</title>
+            <num>16</num>
+            <airdate>2013-02-01</airdate>
+        </episode>
+        <episode xml:id="valentine">
+            <title>Valentine</title>
+            <num>17</num>
+            <airdate>2013-02-15</airdate>
+        </episode>
+        <episode xml:id="traveler">
+            <title>The Traveler</title>
+            <num>18</num>
+            <airdate>2013-03-01</airdate>
+        </episode>
+        <episode xml:id="sandstormA">
+            <title>The Sandstorm (Night Vale)</title>
+            <num>19A</num>
+            <airdate>2013-03-15</airdate>
+        </episode>
+        <episode xml:id="sandstormB">
+            <title>The Sandstorm (Desert Bluffs)</title>
+            <num>19B</num>
+            <airdate>2013-03-15</airdate>
+        </episode>
+        <episode xml:id="poetryWeek">
+            <title>Poetry Week</title>
+            <num>20</num>
+            <airdate>2013-04-01</airdate>
+        </episode>
+        <episode xml:id="europe">
+            <title>A Memory of Europe</title>
+            <num>21</num>
+            <airdate>2013-04-15</airdate>
+        </episode>
+        <episode xml:id="whisperForest">
+            <title>The Whispering Forest</title>
+            <num>22</num>
+            <airdate>2013-05-01</airdate>
+        </episode>
+        <episode xml:id="eternalScout">
+            <title>Eternal Scouts</title>
+            <num>23</num>
+            <airdate>2013-05-15</airdate>
+        </episode>
+        <episode xml:id="mayor">
+            <title>The Mayor</title>
+            <num>24</num>
+            <airdate>2013-06-01</airdate>
+        </episode>
+        <episode xml:id="oneYearLater">
+            <title>One Year Later</title>
+            <num>25</num>
+            <airdate>2013-06-15</airdate>
+        </episode>
+        <episode xml:id="fow">
+            <title>Faceless Old Woman</title>
+            <num>26</num>
+            <airdate>2013-07-01</airdate>
+        </episode>
+        <episode xml:id="firstDate">
+            <title>First Date</title>
+            <num>27</num>
+            <airdate>2013-07-15</airdate>
+        </episode>
+        <episode xml:id="summerReading">
+            <title>Summer Reading Program</title>
+            <num>28</num>
+            <airdate>2013-08-01</airdate>
+        </episode>
+        <episode xml:id="subway">
+            <title>Subway</title>
+            <num>29</num>
+            <airdate>2013-08-15</airdate>
+        </episode>
+        <episode xml:id="dana">
+            <title>Dana</title>
+            <num>30</num>
+            <airdate>2013-09-01</airdate>
+        </episode>
+        <episode xml:id="blinkingLight">
+            <title>A Blinking Light Up On the Mountain</title>
+            <num>31</num>
+            <airdate>2013-09-15</airdate>
+        </episode>
+        <episode xml:id="yellowHelicopters">
+            <title>Yellow Helicopters</title>
+            <num>32</num>
+            <airdate>2013-10-01</airdate>
+        </episode>
+        <episode xml:id="cassette">
+            <title>Cassette</title>
+            <num>33</num>
+            <airdate>2013-10-15</airdate>
+        </episode>
+        <episode xml:id="beautifulDream">
+            <title>A Beautiful Dream</title>
+            <num>34</num>
+            <airdate>2013-11-01</airdate>
+        </episode>
+        <episode xml:id="lazyDay">
+            <title>Lazy Day</title>
+            <num>35</num>
+            <airdate>2013-11-15</airdate>
+        </episode>
+        <episode xml:id="missing">
+            <title>Missing</title>
+            <num>36</num>
+            <airdate>2013-12-01</airdate>
+        </episode>
+        <episode xml:id="auction">
+            <title>The Auction</title>
+            <num>37</num>
+            <airdate>2013-12-15</airdate>
+        </episode>
+        <episode xml:id="orangeGrove">
+            <title>Orange Grove</title>
+            <num>38</num>
+            <airdate>2014-01-01</airdate>
+        </episode>
+        <episode xml:id="italianWoman">
+            <title>The Woman from Italy</title>
+            <num>39</num>
+            <airdate>2014-01-15</airdate>
+        </episode>
+        <episode xml:id="deftBowman">
+            <title>The Deft Bowman</title>
+            <num>40</num>
+            <airdate>2014-02-01</airdate>
+        </episode>
+        <episode xml:id="condos">
+            <title>Condos</title>
+            <num>40.5</num>
+            <airdate>2014-02-14</airdate>
+        </episode>
+        <episode xml:id="walk">
+            <title>WALK</title>
+            <num>41</num>
+            <airdate>2014-02-15</airdate>
+        </episode>
+        <episode xml:id="numbers">
+            <title>Numbers</title>
+            <num>42</num>
+            <airdate>2014-03-01</airdate>
+        </episode>
+        <episode xml:id="visitor">
+            <title>Visitor</title>
+            <num>43</num>
+            <airdate>2014-03-15</airdate>
+        </episode>
+        <episode xml:id="cookies">
+            <title>Cookies</title>
+            <num>44</num>
+            <airdate>2014-04-01</airdate>
+        </episode>
+        <episode xml:id="theirStory">
+            <title>A Story About Them</title>
+            <num>45</num>
+            <airdate>2014-04-15</airdate>
+        </episode>
+    </epiList>
+</metadata>

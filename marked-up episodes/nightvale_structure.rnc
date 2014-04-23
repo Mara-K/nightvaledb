@@ -1,10 +1,8 @@
 start = episode
-episode = element episode {num, title, airdate, segment+}
-num = attribute num {xsd:int|"19A"|"19B"|"40.5"}
-title = attribute title {text}
-airdate = attribute airdate {text}
+episode = element episode {id, segment+}
 
-segment = element segment {type, voice, mixed{(ref|line)*}}
+id = attribute id {text}
+segment = element segment {type, voice, mixed{(ref|line|quote|nextShow)*}}
 type = attribute type {"intro"|"news"|"traffic"|"personal"|"advert"|"main"|"weather"|"calendar"|"guest"|"dialogue"|"science"|"psa"|"closing"|"proverb"}
 voice = attribute voice {"cecil"|"weather"|"credits"|"fow"|"kevin"|"dana"|"carlos"|"hiram"|"lauren"} #Lauren is Peppy Girl. Add more as they appear.
 
@@ -13,6 +11,10 @@ reftype = attribute type {"person"|"nonperson"|"group"|"place"|"culture"|"object
 spec = attribute spec {text}
 
 line = element line {voice, mixed{ref*}} #for "dialogue" segments only
+quote = element quote {quoted, mixed{ref*}}
+quoted = attribute quoted {"josie"|"carlos"}
+
+nextShow = element nextShow{text}
 
 #End goal: Create a database: dropdown menu for each kind of @type contains that @type’s @spec values.
 #Can search for references IN SEGMENT CONTEXT using interactive XQuery.

@@ -1,6 +1,6 @@
 ﻿<?xml-model href="nightvale_structure.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-model href="specConstrain.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<episode num="2" title="glowCloud" airdate="2012-07-01">
+<episode id="glowCloud">
     <segment type="intro" voice="cecil">The desert seems vast, even endless, and yet scientists tell us that somewhere, even
         now, there is snow. Welcome to Night Vale.</segment>
 
