@@ -5,20 +5,21 @@
             <assert
                 test="@spec=('josie','carlos','apacheTracker','teddyWilliams','johnPeters','hiram','frankChen','louieBlasco','leanneHart'
                 ,'intern','larryLeroy','tellyBarber','joelEisenberg','susanWillman','dianeCrayton','joshCrayton','coachNazr','michaelSandero'
-                ,'tristanCortez')"
+                ,'tristanCortez','mrsSandero')"
                 >Specific value should be a person.</assert>
         </rule>
         <rule context="ref[@type='nonperson']">
             <assert
                 test='@spec=("dog","bird","arbysLights","sun","reptile","glowCloud","khoshekh","lion","stationManagement","dinosaur"
-                ,"horse","sentientLightning","parkShape")'
+                ,"horse","sentientLightning","parkShape","spider")'
                 > Specific value should be a nonperson. </assert>
         </rule>
         <rule context="ref[@type='group']">
             <assert
-                test='@spec=("cityCouncil","hoodedFigure","angels","children","tree","pta","journalists"
+                test='@spec=("cityCouncil","hoodedFigure","angels","children","tree","pta","journalists","huddlers"
                 ,"worldGovt","secPol","mysteryHelicopter","businessAssoc","scienceTeam","founders","historians"
-               ,"tinyPeople","nra","tourismBoard","boyScouts","animalControl","contractor","nvSportsTeam","dbSportsTeam")'>
+               ,"tinyPeople","nra","tourismBoard","boyScouts","animalControl","contractor","nvSportsTeam","dbSportsTeam"
+               ,"communityTheater","schoolDistrict")'>
                 Specific value should be a group or organization. </assert>
         </rule>
         <rule context="ref[@type='place']">
@@ -27,10 +28,11 @@
                ,"home","elementary","desertBluffs","waterfront","phantomHouse","postOffice","library","iceCreamShop"
                ,"quakeStation","rte800","bowlingAlley","tinyCity" ,"radonCanyon","oldTown","grovePark","africa","stadium"
                ,"stationOffice","darkBox","usedNDiscount","playBall","mall","auditorium","mineShaft","california","mexico"
-               ,"usa","communityHall","aptBldg","greenMarket","cityHall")'>Specific value should be a place.</assert>
+               ,"usa","communityHall","aptBldg","greenMarket","cityHall","vacantLotHole","vacantLot","fuelNGo")'>Specific value should be a place.</assert>
         </rule>
         <rule context="ref[@type='culture']">
-            <assert test='@spec=("gatorade","arbys","cocaCola","twister","hbo","tide","watergate","tv","sf","jeep","descartes")'>
+            <assert test='@spec=("gatorade","arbys","cocaCola","twister","hbo","tide","watergate","tv","sf","jeep","descartes","ritaHayworth"
+                ,"pluto")'>
                 Specific value should be a cultural icon.</assert>
         </rule>
         <rule context="ref[@type='object']">
@@ -38,11 +40,12 @@
                 test='@spec=("carlosHair","carlosLabcoat","sciEquip","helicopter","flower","plane","alertCitizenCard","iceCream"
                 ,"carlosFace","bread","salt","ghostCar","animalPyre","umbrella","vanilla","newspaper","milk","envelope"
                 ,"teeth","trash","flag","book","dimensionalRift","glasses","chewingGum","softMeatCrown","recordingEquip"
-                ,"bloodstone")'>
+                ,"bloodstone","moon","vimbee","coffee")'>
                 Specific value should be an object.</assert>
         </rule>
         <rule context="ref[@type='language']">
-            <assert test='@spec=("spanish","russian","accent")'> Specific value should be a language.
+            <assert test='@spec=("spanish","russian","accent","french","modSumerian","doubleSpanish","weirdSpanish","copticSpanish","unmodSumerian")'>
+                Specific value should be a language.
             </assert>
         </rule>
         <rule context="ref[@type='abstract']">

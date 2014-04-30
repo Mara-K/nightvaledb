@@ -22,22 +22,22 @@
         interfere with their ongoing secretive domestic espionage operations. When reached for
         comment, our source within <ref type="group" spec="secPol">the Secret Police</ref> only breathed heavily into the phone while
         tapping an as-yet uncracked code into the receiver. </segment>
-    <segment type="news" voice="cecil">Michael Sandero, starting quarterback for the Night Vale Scorpions, has reportedly
+    <segment type="news" voice="cecil"><ref type="person" spec="michaelSandero">Michael Sandero</ref>, starting quarterback for <ref type="group" spec="nvSportsTeam">the Night Vale Scorpions</ref>, has reportedly
         grown a second head. It is not currently known whether this is a result of the previously
         reported lightning strike, or just another odd coincidence in the kid’s odd life. People in
         the know say that the new head is better looking and smarter than the first one, and even
-        Michael’s mother has issued a statement indicating that she likes it much better than her
+        <ref type="person" spec="mrsSandero">Michael’s mother</ref> has issued a statement indicating that she likes it much better than her
         son and that she will be changing the rankings on the public “Which of My Children I Like
         Best” board outside her house. Sandero could not be reached for comment. Probably. We didn’t
         try. </segment>
-    <segment type="psa" voice="cecil">Friends, listeners; there’s a real tarantula problem here in Night Vale. Many residents
+    <segment type="psa" voice="cecil">Friends, listeners; there’s a real <ref type="nonperson" spec="spider">tarantula</ref> problem here in Night Vale. Many residents
         have called in to report that illiteracy, unwanted pregnancy, and violent crime are on the
-        rise in the tarantula communities. Animal control is addressing these concerns through after
+        rise in the tarantula communities. <ref type="group" spec="animalControl">Animal control</ref> is addressing these concerns through after
         school programs called “Teach a Spider to Read — Stop the Madness.” Those interesting in
         volunteering should stand in their bathtubs and weep until it is all gone. Nothing left. You
         can let go now. Let go. Shhhhh. Let go. </segment>
-    <segment type="advert" voice="cecil">And now a message from our sponsor. Tired of your home? Sick of comfort? Come to the
-        Hole in the Vacant Lot out back of the Ralph’s and huddle with Us. Who are we? Good
+    <segment type="advert" voice="cecil">And now a message from our sponsor. Tired of your home? Sick of comfort? Come to <ref type="place" spec="vacantLotHole">the
+        Hole</ref> in <ref type="place" spec="vacantLot">the Vacant Lot</ref> out back of <ref type="place" spec="ralphs">the Ralph’s</ref> and huddle with <ref type="group" spec="huddlers">Us</ref>. Who are we? Good
         question. Come to the Hole in the Vacant Lot out back of the Ralph’s and huddle with Us. Why
         do we want you to come? Why did we spend money for this airtime? We understand you are
         confused. But: Hole, Vacant Lot, Ralph’s, huddle, Us. For the low-low price. Act today. Or
@@ -45,25 +45,25 @@
         so just come on down to the Hole in the Vacant Lot out back of the Ralph’s and huddle with
         Us. Or else. </segment>
     <segment type="news" voice="cecil">Back to our regularly scheduled programming. Ladies and gentlemen, the rumor mill is
-        abuzz. We’ve had a celebrity sighting in our little burgh! Old Woman Josie and one of her
-        angel friends reportedly saw Rita Hayworth getting gas at the Fuel ‘n Go over by the bowling
+        abuzz. We’ve had a celebrity sighting in our little burgh! <ref type="person" spec="josie">Old Woman Josie</ref> and <ref type="group" spec="angels">one of her
+        angel friends</ref> reportedly saw <ref type="culture" spec="ritaHayworth">Rita Hayworth</ref> getting gas at <ref type="place" spec="fuelNGo">the Fuel ‘n Go</ref> over by the bowling
         alley. Rita Hayworth, ladies and gentlemen! Right here in Night Vale. Can you believe it?
         Old Woman Josie said Rita was looking a bit older, moderately obese, and considerably more
         Hispanic, but the angel assured her it was indeed Rita. He is an angel after all…he would
         know, right? Wow! Rita Hayworth! Right here in Night Vale! Just imagine! </segment>
-    <segment type="main" voice="cecil">Update on the Shape Formerly in Grove Park that No One Acknowledges or Speaks About: it
-        seems the City Council, in their superhuman mercy and all-seeing glory have chosen to move
+    <segment type="main" voice="cecil">Update on <ref type="nonperson" spec="parkShape">the Shape Formerly in Grove Park that No One Acknowledges or Speaks About</ref>: it
+        seems <ref type="group" spec="cityCouncil">the City Council</ref>, in their superhuman mercy and all-seeing glory have chosen to move
         the Shape directly in front of our own radio station, where it is continuing to be what can
         only be described as…indescribable. The Shape was not available for comment as I could find
         no one willing to speak to it…or even meet my eye when I mentioned it. It has occurred to me
         that I may be the only one able to see it. Now that I think about it, I have also never
-        bothered to actually check whether this mic is attached to any sort of recording or
-        broadcasting device. And it is possible that I am alone in an empty universe, speaking to no
+        bothered to actually check whether this mic is attached to any sort of <ref type="object" spec="recordingEquip">recording or
+        broadcasting device</ref>. And it is possible that I am alone in <ref type="abstract" spec="void">an empty universe</ref>, speaking to no
         one, unaware that the world is held aloft merely by my delusions and my smooth, sonorous
         voice. More on this story as it develops, I say, possibly only to myself. </segment>
-    <segment type="news" voice="cecil">The Night Vale Community Theater is holding auditions for its fall show “Once On This
-        Island.” Interested thespians should bring a head shot and resume to the Recreation Center
-        auditorium on Thursday night. All auditionees must perform a one-minute monologue and sing
+    <segment type="news" voice="cecil"><ref type="group" spec="communityTheater">The Night Vale Community Theater</ref> is holding auditions for its fall show “Once On This
+        Island.” Interested thespians should bring a head shot and resume to <ref type="place" spec="auditorium">the Recreation Center
+        auditorium</ref> on Thursday night. All auditionees must perform a one-minute monologue and sing
         one song. Bring sheet music if you would like piano accompaniment. Auditionees will also be
         required to do a cold reading, and give blood and stool samples along with mandatory
         radiation testing following the auditions. Do not sing anything from South Pacific. People
@@ -71,47 +71,47 @@
         employer. Also, actors with long-range sniper training, FORTRAN computer programming, and
         top-notch wilderness survival skills are a plus. Final casting will be announced in secret
         via dirigible. No one can ever know. </segment>
-    <segment type="news" voice="cecil">Update on the Green Market situation from earlier in our broadcast. Everything is
+    <segment type="news" voice="cecil">Update on the <ref type="place" spec="greenMarket">Green Market</ref> situation from earlier in our broadcast. Everything is
         exactly the same as when we last reported on it. There is no new information. </segment>
-    <segment type="science" voice="cecil">Listeners, do you ever think about the moon? I was sitting outside last night looking
+    <segment type="science" voice="cecil">Listeners, do you ever think about <ref type="object" spec="moon">the moon</ref>? I was sitting outside last night looking
         at the moon and I thought, does anyone actually know what that thing is? Have there been any
-        studies on this? I went to ask Carlos, but he hasn’t been seen much since that treacherous
-        Telly’s vile haircut. The moon’s weird though, right? It’s there, and there, and then
+        studies on this? I went to ask <ref type="person" spec="carlos">Carlos</ref>, but he hasn’t been seen much since <ref type="person" spec="tellyBarber">that treacherous
+        Telly’s</ref> vile haircut. The moon’s weird though, right? It’s there, and there, and then
         suddenly it’s not. And it seems to be pretty far up. Is it watching us? If not, what is it
         watching instead? Is there something more interesting than us? Hey, watch us moon! We may
         not always be the best show in the universe, but we try. This has been today’s Children’s
         Fun Fact Science Corner. </segment>
-    <segment type="news" voice="cecil">Speaking of which, the Night Vale School District has announced some changes to the
+    <segment type="news" voice="cecil">Speaking of which, <ref type="group" spec="schoolDistrict">the Night Vale School District</ref> has announced some changes to the
         elementary school curriculum. They are as follows: In response to parent feedback, history
         class will focus more heavily on textbook readings and traditional exams, rather than live
-        ammo drills. Geology is adding a new type of rock on the grounds that it’s been a while
-        since anyone has done that. The new type of rock is “vimbee,” and it is categorized by its
+        ammo drills. <ref type="abstract" spec="science">Geology</ref> is adding a new type of rock on the grounds that it’s been a while
+        since anyone has done that. The new type of rock is “<ref type="object" spec="vimbee">vimbee</ref>,” and it is categorized by its
         pale blue color, and the fact that it is completely edible. Points will be awarded to the
         first student to discover a real-world example of it. Math and English are switching names.
         Their curriculum will stay exactly the same. Astronomy will now be conducting stargazing
         sessions only with blindfolds on every participant, in order to protect them from the
-        existential terror of the void. Also, Pluto has been declared imaginary. All classrooms will
+        existential terror of the void. Also, <ref type="culture" spec="pluto">Pluto</ref> has been declared imaginary. All classrooms will
         be equipped with at least one teacher physically present for the entire instruction period.
         Astral projection will no longer be used in any classroom situation. Finally, in addition to
-        the current foreign language offerings of Spanish, French, and Modified Sumerian, schools
-        will now be offering Double Spanish, Weird Spanish, Coptic Spanish, Russian, and Unmodified
-        Sumerian. </segment>
+        the current foreign language offerings of <ref type="language" spec="spanish">Spanish</ref>, <ref type="language" spec="french">French</ref>, and <ref type="language" spec="modSumerian">Modified Sumerian</ref>, schools
+        will now be offering <ref type="language" spec="doubleSpanish">Double Spanish</ref>, <ref type="language" spec="weirdSpanish">Weird Spanish</ref>, <ref type="language" spec="copticSpanish">Coptic Spanish</ref>, <ref type="language" spec="russian">Russian</ref>,
+        and <ref type="language" spec="unmodSumerian">Unmodified Sumerian</ref>. </segment>
     <segment type="main" voice="cecil">And now a continuation of our previous investigation into whether I am literally the
         only person in the world, speaking to myself in a fit of madness caused by my inability to
-        admit the tragedy of my own existence. Leland, our newest intern, recently brought me a cup
-        of coffee. He is no longer in my field of vision, but I do still have the cup of coffee,
+        admit the tragedy of my own existence. <ref type="person" spec="intern">Leland</ref>, our newest intern, recently brought me a cup
+        of <ref type="object" spec="coffee">coffee</ref>. He is no longer in my field of vision, but I do still have the cup of coffee,
         which is well made and is given me the needed pick-me-up to continue considering this
         terrifying possibility. Is it possible that I only imagined Leland, and forgot making myself
         this cup of coffee? But then, who would have grown this coffee? Where was this coffee cup
         procured from? Oh, Leland’s back in the room. He’s waving at me — hello, Leland — and he’s
-        saying…wait, what was that, Leland? I see. He’s saying that the Shape has turned a molten
+        saying…wait, what was that, Leland? I see. He’s saying that <ref type="nonperson" spec="parkShape">the Shape</ref> has turned a molten
         red and is causing small whirlwinds in front of our radio station doors. There is apparently
         a sound of a great many voices chanting as though it were an army giving out a battle cry
         before raining down destruction on our arid little hamlet. Oh? He has stopped shouting, and
         is now writing furiously on a piece of paper. I have to say, Leland’s existence, as well as
         his finally speaking about the Shape that No One Else Would Speak About, has reassured me
         greatly about my lonely and solipsistic vigil here at this microphone. He is handing me the
-        note — thank you, Leland — lemme see here…ahh. It says that the City Council believes the
+        note — thank you, Leland — lemme see here…ahh. It says that <ref type="group" spec="cityCouncil">the City Council</ref> believes the
         reason for the violent reaction of the Shape Formerly in Grove Park that No One Acknowledges
         or Speaks About is because I have been acknowledging and speaking about it, which has made
         it angry. They urge me to stop speaking of it, and never do it again, and in exchange
@@ -128,7 +128,7 @@
         about. There never was. Words are an unnecessary trouble. Expression is time wasting away.
         Any communication is just a yelp in the darkness. Ladies, gentlemen, listeners, you. I am
         speaking now but I am saying nothing. I am just making noises and, as it happens, they are
-        organized in words and you should not draw meaning from this. The service for Leland will be
+        organized in words and you should not draw meaning from this. The service for <ref type="person" spec="intern">Leland</ref> will be
         lovely. We will throw flowers and weep. He will be buried in the break room as is the
         custom. His family will come and moon about the coffee as though we have answers. We do not
         have answers. I am not certain that we even have questions. I have chosen to not be certain
