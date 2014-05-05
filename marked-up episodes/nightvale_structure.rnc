@@ -4,7 +4,7 @@ episode = element episode {id, segment+}
 id = attribute id {text}
 segment = element segment {type, voice, mixed{(ref|line|quote|nextShow)*}}
 type = attribute type {"intro"|"news"|"traffic"|"personal"|"advert"|"main"|"weather"|"calendar"|"guest"|"dialogue"|"science"|"psa"|"closing"|"proverb"}
-voice = attribute voice {"cecil"|"weather"|"credits"|"fow"|"kevin"|"dana"|"carlos"|"hiram"|"lauren"} #Lauren is Peppy Girl. Add more as they appear.
+voice = attribute voice {"cecil"|"weather"|"credits"|"fow"|"kevin"|"dana"|"carlos"|"hiramRed"|"hiramPurple"|"hiramGreen"|"hiramGray"|"hiramBlue"|"lauren"|"many"|"marcus"|"advert"|"dianeCrayton"|"erikaM"|"johnPeters"|"erikaF"} #Lauren is Peppy Girl. Add more as they appear.
 
 ref = element ref {reftype, spec, text}
 reftype = attribute type {"person"|"nonperson"|"group"|"place"|"culture"|"object"|"language"|"abstract"}
@@ -12,7 +12,7 @@ spec = attribute spec {text}
 
 line = element line {voice, mixed{ref*}} #for "dialogue" segments only
 quote = element quote {quoted, mixed{ref*}}
-quoted = attribute quoted {"josie"|"carlos"}
+quoted = attribute quoted {"josie"|"carlos"|"deer"|"cityCouncil"}
 
 nextShow = element nextShow{text}
 

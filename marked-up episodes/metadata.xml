@@ -239,5 +239,15 @@
             <num>45</num>
             <airdate>2014-04-15</airdate>
         </episode>
+        <episode xml:id="debate">
+            <title>The Debate</title>
+            <num>45.5</num>
+            <airdate>2014-04-30</airdate>
+        </episode>
+        <episode xml:id="paradeDay">
+            <title>Parade Day</title>
+            <num>46</num>
+            <airdate>2014-05-01</airdate>
+        </episode>
     </epiList>
 </metadata>
