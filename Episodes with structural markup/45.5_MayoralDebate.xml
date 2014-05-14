@@ -305,7 +305,7 @@ Uh, listeners, Marcus grew gold feathers from his back, as he vanished. And he i
 
 One last caller? You are on the air.
 </line>
-<line voice="steveCarlsburg">Hi, this is Steve Carlsberg? And, um, my question is for Hiram. Hiram, –</line>
+<line voice="steveCarlsberg">Hi, this is Steve Carlsberg? And, um, my question is for Hiram. Hiram, –</line>
 
 <line voice="cecil">NO!!! NO!!! STEVE CARLSBERG!?! WE ARE OUT OF TIME FOR QUESTIONS GOODBYE!!!</line>
 
@@ -371,39 +371,39 @@ Listeners, I fear something much worse is lurking. So, as we all hide from the d
 
 <segment type="dialogue" voice="many"><line voice="cecil">Listeners? The quiet humming is not the deer, but a swirling black vortex just outside our studio door. In fact, the deer have backed away from the station. I have seen this vortex before, listeners. And I am afraid to approach it. But Hiram went to look inside.
 </line>
-Yeah, and I found this guy in the vortex.
+<line voice="hiramRed">Yeah, and I found this guy in the vortex.</line>
 
-Hello.
+<line voice="kevin">Hello.</line>
 
-Who is this man? Not man. Who…is this creature? Why is he covered in blood? And where are his eyes?
+<line voice="cecil">Who is this man? Not man. Who…is this creature? Why is he covered in blood? And where are his eyes?
+</line>
+    <line voice="kevin">Hi! I’m Kevin!</line>
 
-Hi! I’m Kevin!
+<line voice="cecil">You stay away!</line>
 
-You stay away!
+<line voice="fow">Hello, Kevin. That’s Cecil. Wow, you guys look…almost just alike!</line>
 
-Hello, Kevin. That’s Cecil. Wow, you guys look…almost just alike!
+    <line voice="kevin">Oh! Hello, Cecil! Nice to meet you! And yes, I completely see the resemblance! It’s mostly in the eyes, I think. OK, I met Hiram, and now Cecil, who are you?
+</line>
+<line voice="fow">I am the Faceless Old Woman Who Secretly Lives In Your Home. Well, most homes. Not yours. I’ve never seen you before.
+</line>
+    <line voice="kevin">Faceless? You’re not faceless! You have a beautiful face! A memorable face. I don’t know if I’ve ever seen such deep hazel eyes, or proud lips, or archaic jaw.
+</line>
+<line voice="fow">I do not have a face, Kevin. I have never had a face.
+</line>
+    <line voice="kevin">You do have a face! And it’s unlike any other face in history.
+</line>
+<line voice="cecil">Why are you here? Explain to me what you are doing here.</line>
 
-Oh! Hello, Cecil! Nice to meet you! And yes, I completely see the resemblance! It’s mostly in the eyes, I think. OK, I met Hiram, and now Cecil, who are you?
-
-I am the Faceless Old Woman Who Secretly Lives In Your Home. Well, most homes. Not yours. I’ve never seen you before.
-
-Faceless? You’re not faceless! You have a beautiful face! A memorable face. I don’t know if I’ve ever seen such deep hazel eyes, or proud lips, or archaic jaw.
-
-I do not have a face, Kevin. I have never had a face.
-
-You do have a face! And it’s unlike any other face in history.
-
-Why are you here? Explain to me what you are doing here.
-
-Oh. Sure.
+    <line voice="kevin">Oh. Sure.
 
 Well, I was sitting in my own radio studio in my own town, and I heard that…humming again. I saw a spiraling white vortex and rushed into it. It has been months since I have seen it, and once I met a man there who looked like me! With my eyes, and my smile. I think he was you, Cecil!
 
 I know that I am Kevin. I know I have been in this strange studio before, with its old-timey microphones and acoustic gray foam walls. A place like this is usually covered in clumps of hair and reddish-brown hand prints streaking down the only remaining unshattered window. But they do things differently here in…where is this?
+    </line>
+<line voice="hiramRed">Night Vale.</line>
 
-Night Vale.
-
-Oooooh myyy! So this is Night Vale! Oh! How delightful!
+<line voice="kevin">Oooooh myyy! So this is Night Vale! Oh! How delightful!
 
 *clears throat* Hello out there, Night Vale listeners! This is Kevin from Desert Bluffs!
 
@@ -414,20 +414,20 @@ And so…here I am! I wish Vanessa were here! She would love Night Vale! You guy
 We always talk about coming here and here I am, without her! Oh! I wish you could have met Vanessa! Always a joke to start the day. She had one about limestone this morning, hahahahahahaha! Haaa! I don’t remember it, but it was a hit.
 
 Always a laugh, always a smile, a big smile! Where she’d show me all these perfect teeth, and I would just imagine the rest of her perfect skull. Funny how the skull is so visible in your mouth. Weird. Who thinks of that stuff? I don’t know. Weird, right?
+</line>
+<line voice="fow">Maybe next time you come you could bring her.</line>
 
-Maybe next time you come you could bring her.
+    <line voice="kevin">Oh, gosh, I wish! But no.</line>
 
-Oh, gosh, I wish! But no.
+<line voice="fow">No?</line>
 
-No?
-
-Oh, dear, I’m sorry, no. Vanessa died many years ago. We’re all still very upset about it. Very upset about what we saw. Some of us never came back to work again. Some of us never left our houses again. Most of us never woke up again.
+    <line voice="kevin">Oh, dear, I’m sorry, no. Vanessa died many years ago. We’re all still very upset about it. Very upset about what we saw. Some of us never came back to work again. Some of us never left our houses again. Most of us never woke up again.
 
 I don’t like to talk about it much.
+</line>
+<line voice="fow">I’m sorry.</line>
 
-I’m sorry.
-
-Night Vale, I don’t know why I was brought here, but I am starting to see we are connected. And by more than just a two-lane highway. We are connected much more deeply, Night Vale! And if this is true, I imagine your town, too, has been seeing a rise in the deer population this evening. It is a blessed event, of course, as these deer have been so very helpful to all of us in Desert Bluffs, doing all our math problems, gaining us extra work hours by time-traveling us back and forth…so productive and adorable, those deer!
+    <line voice="kevin">Night Vale, I don’t know why I was brought here, but I am starting to see we are connected. And by more than just a two-lane highway. We are connected much more deeply, Night Vale! And if this is true, I imagine your town, too, has been seeing a rise in the deer population this evening. It is a blessed event, of course, as these deer have been so very helpful to all of us in Desert Bluffs, doing all our math problems, gaining us extra work hours by time-traveling us back and forth…so productive and adorable, those deer!
 
 But, of course, there is sometimes too much of a good thing.
 
@@ -441,39 +441,39 @@ Cecil, I will see you again. I am certain.
 
 I can’t wait to tell Vanessa what a great town this was! Haha!
 
-I must go. It was nice to meet you two!
+I must go. It was nice to meet you two!</line>
 
-He said I have a face! I’ve never seen my face. What do I look like, Hiram? Am I beautiful?
+<line voice="fow">He said I have a face! I’ve never seen my face. What do I look like, Hiram? Am I beautiful?
+</line>
+<line voice="hiramRed">You are beautiful when you do beautiful things. Do you do beautiful things?
+</line>
+<line voice="fow">I think that I do.</line>
 
-You are beautiful when you do beautiful things. Do you do beautiful things?
+<line voice="hiramGreen">THEN YOU ARE BEAUTIFUL! IT IS A SIMPLE CALCULATION, YOU SMALL DEFENSELESS SACK OF BONES AND MEAT!
+</line>
+<line voice="fow">Well, thank you, Hiram. You are beautiful, too.
 
-I think that I do.
+Cecil, you are…distracted.</line>
 
-THEN YOU ARE BEAUTIFUL! IT IS A SIMPLE CALCULATION, YOU SMALL DEFENSELESS SACK OF BONES AND MEAT!
+<line voice="hiramRed">Cecil? You…you alright, there, buddy?
+</line>
+<line voice="cecil">I….can’t….um…</line>
 
-Well, thank you, Hiram. You are beautiful, too.
-
-Cecil, you are…distracted.
-
-Cecil? You…you alright, there, buddy?
-
-I….can’t….um…
-
-Cecil, it– it’s going to be OK.
+<line voice="fow">Cecil, it– it’s going to be OK.
 
 Actually, that’s a lie. In general, it’s not going to be OK.
+</line>
+<line voice="hiramRed">That man with the missing eyes, and bloodstained skin and teeth like an abandoned cemetery? He was certainly terrifying, but he’s gone now.
+</line>
+<line voice="cecil">He was…</line>
 
-That man with the missing eyes, and bloodstained skin and teeth like an abandoned cemetery? He was certainly terrifying, but he’s gone now.
-
-He was…
-
-Cecil, we all get frightened and freeze in the face of unbearable terror. I mean, only if we can see that face. Some faces are apparently there but unseeable.
-
-I…you’re right. Um, thank you both.
+<line voice="fow">Cecil, we all get frightened and freeze in the face of unbearable terror. I mean, only if we can see that face. Some faces are apparently there but unseeable.
+</line>
+<line voice="cecil">I…you’re right. Um, thank you both.
 
 Candidates, uh, thank you, also, for coming on the show tonight. I think you both would make an excellent mayor, and I look forward to casting a meaningless vote for one of you soon.
-</segment>
-<segment>Listeners, thank you for listening to the show tonight. Remember that you may hear terrible machines and screams as corporate agents terminate the false deer. Their attempt to destroy our way of life, by bringing us together as one, has failed. We are free to remain ourselves and find our own connections – beautiful or grotesque. Either way, a beauty or grotesquery of our own choosing.
+</line></segment>
+<segment type="main" voice="cecil">Listeners, thank you for listening to the show tonight. Remember that you may hear terrible machines and screams as corporate agents terminate the false deer. Their attempt to destroy our way of life, by bringing us together as one, has failed. We are free to remain ourselves and find our own connections – beautiful or grotesque. Either way, a beauty or grotesquery of our own choosing.
 
 So relax tonight, Night Vale. You are yourself. You are safe.
 
